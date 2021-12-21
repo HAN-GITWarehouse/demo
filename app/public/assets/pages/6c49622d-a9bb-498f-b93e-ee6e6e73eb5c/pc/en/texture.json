@@ -1,0 +1,693 @@
+{
+  "id": "6c49622d-a9bb-498f-b93e-ee6e6e73eb5c",
+  "lang": "en",
+  "name": null,
+  "type": null,
+  "style": {
+    "padding": "5.85vh 4.5vw",
+    "position": "relative",
+    "overflow": "hidden",
+    "flex": 1
+  },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "content": {
+    "id": "8611f82b-f7d7-4a93-bbba-296973ff809c",
+    "texture_id": "6c49622d-a9bb-498f-b93e-ee6e6e73eb5c",
+    "succeed": 1,
+    "bgcolor": "ffffff",
+    "point": null
+  },
+  "frames": [
+    {
+      "id": "c65b4fed-cd7a-40d4-bf1b-b66e2becb1c1",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "null",
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "Information Security Specification",
+          "style-type": "title-en",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "- Personal Information Protection",
+          "style-type": "blue-ligth-15",
+          "type": "txt",
+          "p": { "x": 0, "y": 35 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 25,
+        "y": 30
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "99321e92-1ab6-4ac1-a38f-d1c57efdc841",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "null",
+      "type": "img",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "57bb3791-2763-49d1-96c6-8643b9c03fa9.png",
+          "type": "img",
+          "p": { "x": 0, "y": -2 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 50,
+        "y": 105,
+        "w": 335,
+        "h": 42
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 1096,
+        "h": 65,
+        "scale": { "desc": "缩放比例", "ratio": 0.56 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "2a1bd283-8ad2-47df-a49c-0d74c4ae02ee",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "6c49622d-a9bb-498f-b93e-ee6e6e73eb5c",
+      "animation": "null",
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "To protect personal information, please keep in mind that :",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#fff",
+            "fontWeight": "bold"
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 121,
+        "y": 117
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      },
+      "tweens": null
+    },
+    {
+      "id": "6cc48737-1350-4393-bfb6-073e5738605c",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "6c49622d-a9bb-498f-b93e-ee6e6e73eb5c",
+      "animation": "null",
+      "type": "img",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "a7c476cb-6cfa-47dd-803d-272d76cee95c.png",
+          "type": "img",
+          "p": { "x": 0, "y": -2 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 650,
+        "y": 187,
+        "w": 165,
+        "h": 150
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 311,
+        "h": 329,
+        "scale": { "desc": "缩放比例", "ratio": 0.7 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "186e6478-618f-4735-9ebd-a39a69f41ec2",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 3000,
+        "to": [
+          { "p": { "x": 50, "y": 170, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 62, "y": 170, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "Do not share files containing personal information (including customers', employees', \nand partners') to chat groups (including internal groups and external groups);",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 13,
+            "lineHeight": 15
+          },
+          "p": { "x": 15, "y": -4 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 62,
+        "y": 165
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "2a61f106-ed98-42a5-b74d-ab1244caec78",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 6000,
+        "to": [
+          { "p": { "x": 50, "y": 215, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 62, "y": 215, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "Do not publish personal information (including customers', employees', and partners') \nin publicly accessible collaborative documents, including but not limited to \nConfluence, JIRA, Lark documents, etc.;",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 13,
+            "lineHeight":15
+          },
+          "p": { "x": 15, "y": -4 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 62,
+        "y": 230
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "38ac3b04-1233-4423-bed4-de24628acd58",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 9000,
+        "to": [
+          { "p": { "x": 50, "y": 280, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 62, "y": 280, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "Do not provide personal information (including customers', employees', and partners') \nto the outside without following the company's unified regulations and procedures;",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 13,
+            "lineHeight": 15
+          },
+          "p": { "x": 15, "y": -4 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 62,
+        "y": 290
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "247ee401-21e1-40a1-ba1d-6f9215c61cfd",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "6c49622d-a9bb-498f-b93e-ee6e6e73eb5c",
+      "animation": "move",
+      "tweens": {
+        "wait": 12000,
+        "to": [
+          { "p": { "x": 62, "y": 325, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 62, "y": 325, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "Do not record personal information (including customers', employees', and partners') in \nreport materials. It must be desensitized if involved; ",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 13,
+            "lineHeight": 15
+          },
+          "p": { "x": 15, "y": -4 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 62,
+        "y": 329
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "586fc0b0-7754-4589-bbaa-7f6a5150e156",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "6c49622d-a9bb-498f-b93e-ee6e6e73eb5c",
+      "animation": "move",
+      "tweens": {
+        "wait": 15000,
+        "to": [
+          { "p": { "x": 62, "y": 373, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 62, "y": 373, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "Do not transfer files with personal information in plain text (including internal and \nexternal transmission). If they need to be transmitted, they must be encrypted; ",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 13,
+            "lineHeight": 15
+          },
+          "p": { "x": 15, "y": -4 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 62,
+        "y": 389
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "57ab952a-3557-4c37-911b-4921501c7ab4",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "6c49622d-a9bb-498f-b93e-ee6e6e73eb5c",
+      "animation": "move",
+      "tweens": {
+        "wait": 18000,
+        "to": [
+          { "p": { "x": 62, "y": 420, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 62, "y": 420, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "Do not illegally sell the personal information of customers, employees, and partners.",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 13,
+            "lineHeight": 15
+          },
+          "p": { "x": 15, "y": -4 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 62,
+        "y": 449
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    }
+  ],
+  "meta": {
+    "id": "09fab99e-1af9-4ac9-8bb8-9569e647cef3",
+    "texture_id": "fa1a5c6a-e4f9-41bf-96b5-74de8cd70e0c",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "882b90f7-7acf-43f2-8cdf-f3a280e677f2",
+      "texture_meta_id": "b6d0eb84-2b80-44b2-a555-660781be4aee",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}

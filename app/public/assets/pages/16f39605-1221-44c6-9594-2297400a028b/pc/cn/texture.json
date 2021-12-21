@@ -1,0 +1,586 @@
+{
+  "id": "16f39605-1221-44c6-9594-2297400a028b",
+  "lang": "cn",
+  "name": null,
+  "type": null,
+  "style": { "padding": "7.5vh 5.4vw", "overflow": "hidden" },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "content": {
+    "id": "c0241bfc-b934-488f-91a5-930fc03045f1",
+    "texture_id": "93ebf9dc-8490-405a-8ca1-7daf56c4ca89",
+    "succeed": 1,
+    "bgcolor": "ffffff",
+    "point": null
+  },
+  "frames": [
+    {
+      "id": "c65b4fed-cd7a-40d4-bf1b-b66e2becb1c1",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "null",
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "信息安全规范",
+          "style-type": "title",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "-钓鱼攻击",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fontSize": 15,
+            "lineHeight": 1
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 30 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 25,
+        "y": 30
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "b10915dd-a292-4775-9503-acc8c8fbdd88",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "null",
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "如何防范钓鱼攻击?",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fontSize": 15,
+            "fill": "#48BEBE",
+            "letterSpacing": 1
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 70,
+        "y": 100
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "cbad148b-9d19-4d0c-9653-8c42f055fe4c",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "16f39605-1221-44c6-9594-2297400a028b",
+      "animation": null,
+      "type": "img",
+      "label": null,
+      "content": [
+        {
+          "url": "9ad084f5-2bed-49e4-b389-a439ccbe6c7d.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 517,
+        "y": 114,
+        "w": 390,
+        "h": 280
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 602,
+        "h": 457,
+        "scale": { "desc": "缩放比例", "ratio": 0.6 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "d06ded5c-c2a7-4f92-bab6-817c1b3347ce",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "16f39605-1221-44c6-9594-2297400a028b",
+      "animation": "move",
+      "tweens": {
+        "wait": 1500,
+        "to": [
+          { "p": { "x": 42, "y": 130, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 42, "y": 148, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "img",
+      "label": null,
+      "content": [
+        {
+          "url": "1aed35c0-986e-4ce9-baeb-ed289823d9f4.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 42,
+        "y": 148,
+        "w": 10,
+        "h": 335
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 32,
+        "h": 526,
+        "scale": { "desc": "缩放比例", "ratio": 0.5 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "b67edb76-6ed4-4c26-8c29-2dbe2b930890",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 3000,
+        "to": [
+          { "p": { "x": 50, "y": 150, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 70, "y": 150, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "对于来路不明邮件中的网址链接，将鼠标移至链接上确认真实网\n址，确认没问题后再点击；",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "letterSpacing": 1
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 70,
+        "y": 150
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "c70f059f-6c09-441e-9463-606e711f9ec9",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "16f39605-1221-44c6-9594-2297400a028b",
+      "animation": "move",
+      "tweens": {
+        "wait": 5000,
+        "to": [
+          { "p": { "x": 50, "y": 205, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 70, "y": 205, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "不要轻易下载邮件中的附件，特别是可执行附件，以及含有宏的\n文件；",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "letterSpacing": 1
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 70,
+        "y": 205
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "e90f2431-3249-4dfa-99bb-8091b0840e54",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 7000,
+        "to": [
+          { "p": { "x": 50, "y": 260, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 70, "y": 260, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "不要因为邮件中的要求轻易提交个人敏感信息；",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "letterSpacing": 1
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 70,
+        "y": 260
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "6e092902-17a5-463e-9570-c256b574f747",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "type": "p",
+      "label": null,
+      "animation": "move",
+      "tweens": {
+        "wait": 9000,
+        "to": [
+          { "p": { "x": 50, "y": 295, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 70, "y": 295, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "content": [
+        {
+          "text": "如果不确定该邮件是否为钓鱼邮件，请将其转发至",
+          "style-type": "text",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "sec@nio.com",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "fill": "#48BEBE"
+          },
+          "type": "txt",
+          "p": { "x": 290, "y": 0 }
+        },
+        {
+          "text": "然后删除该邮件；",
+          "style-type": "text",
+          "type": "txt",
+          "p": { "x": 0, "y": 15 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 70,
+        "y": 295
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "b606cdb8-51b6-4419-be03-11ec4e2dadff",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "16f39605-1221-44c6-9594-2297400a028b",
+      "animation": "move",
+      "tweens": {
+        "wait": 11000,
+        "to": [
+          { "p": { "x": 50, "y": 353, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 70, "y": 353, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "如果已单击网络钓鱼链接或打开附件，请联系企业信息安全部进\n行报告 (有的时候，即使没有输入凭据，只需单击该链接就足以危\n及设备) 。",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "letterSpacing": 1
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 68,
+        "y": 353
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    }
+  ],
+  "meta": {
+    "id": "b3f2371e-aac7-4c8b-ab8c-e23926adea61",
+    "texture_id": "661f3c9e-1979-4f41-ad97-0db35d6e0b89",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "c0528635-3142-4313-90a1-a844b9df83e6",
+      "texture_meta_id": "94af692c-fa16-41de-97f7-885663b5335d",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}

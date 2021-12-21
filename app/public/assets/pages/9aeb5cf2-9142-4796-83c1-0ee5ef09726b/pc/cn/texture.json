@@ -1,0 +1,552 @@
+{
+  "id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+  "lang": "cn",
+  "name": null,
+  "type": null,
+  "style": {
+    "flex": 1,
+    "padding": "6.5vh 7.5vw",
+    "overflow": "hidden",
+    "position": "relative",
+    "background": "linear-gradient(to right, #fff 50%, #004a63 50%)"
+  },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "content": {
+    "id": "54d42f16-ae67-40a2-b565-1fa9b6a05b7b",
+    "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+    "succeed": 1,
+    "bgcolor": "ffffff",
+    "point": null
+  },
+  "frames": [
+    {
+      "id": "c65b4fed-cd7a-40d4-bf1b-b66e2becb1c1",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "null",
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "信息安全的概念",
+          "style-type": "title",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 25,
+        "y": 30
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "9efee877-4509-4388-a126-b562e1b7ac89",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "fontSize": "2.7vh",
+        "color": "#00c1c0",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".1vw",
+        "paddingTop": "4.5vh",
+        "paddingBottom": "1.2vh",
+        "animation": "bounceInUp 1s ease both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "什么是信息",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "letterSpacing": 1.5,
+            "fontWeight": "bold",
+            "fill": "#48BEBE",
+            "fontSize": 16
+          },
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "?",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fill": "#48BEBE",
+            "letterSpacing": 1.5,
+            "fontWeight": "bold",
+            "fontSize": 30
+          },
+          "p": { "x": 95, "y": -14 }
+        },
+        {
+          "text": "信息就是消息、信号、数据、情报和知识等有意义的内容。对于蔚来\n来说，信息包括但不限于公司战略，公司组织架构，客户信息，销售\n数据以及知识产权（如车辆参数，系统源代码）等内容。",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "letterSpacing": 1,
+            "fontSize": 12,
+            "lineHeight": 25
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 30 }
+        }
+      ],
+      "flow": {
+        "id": "ff628752-87c5-4fe4-9849-1d78b272c24f",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "f5d14276-621a-4d5a-b93a-adfaf40cdd50",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "b98f5e4e-7eaf-4271-9d4f-22047aa360b3",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 35,
+        "y": 86
+      },
+      "pivot": {
+        "id": "ff3c0b79-647f-49d0-81c9-a6a520b02faa",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "60510e63-c7d6-412a-853e-8b4dac68d77a",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "1ec9f578-8b16-4adb-b556-b10f0fe9025a",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "65867dd4-26dc-4832-bfe5-51a0917cc14b",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": null,
+      "style": {
+        "width": "20vw",
+        "height": "35vh",
+        "fontSize": "3vh",
+        "paddingTop": "1.9vh",
+        "animation": "fadeInDown 0.5s ease-in both",
+        "marginLeft": "9vw",
+        "paddingBottom": "1.5vh"
+      },
+      "type": "img",
+      "label": null,
+      "content": [
+        { "url": "5514d6e9-7270-4534-bed8-e296a12c0599.png", "type": "img" }
+      ],
+      "flow": {
+        "id": "e38c5402-5f58-4b2c-aa31-2d7b70036ca7",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "681503b6-59c6-4c67-bc5c-2ef828da1607",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "feb16f1e-9e84-4a46-8414-a35c881eeaf4",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 108,
+        "y": 195,
+        "w": 248,
+        "h": 210,
+        "point": null
+      },
+      "pivot": {
+        "id": "65bde684-53dd-4ed4-ace2-e3d3553ab29d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "ec35648b-c4fe-4344-a56b-ae522364098f",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 401,
+        "h": 339,
+        "scale": { "desc": "缩放比例", "ratio": 0.6 }
+      },
+      "spriteSourceSize": {
+        "id": "b17c99aa-59c0-4a03-8a01-847a33940bd7",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "0b3c9633-b546-40d9-9cd5-9fd249f1f4ad",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": null,
+      "style": {
+        "width": "12.15vw",
+        "height": "18.27vh",
+        "position": "absolute",
+        "top": "63.69vh",
+        "right": "8.5vw",
+        "animation": "fadeInRight 0.5s ease-in both"
+      },
+      "label": null,
+      "type": "img",
+      "content": [
+        { "url": "249f424c-b2fd-43db-9889-91816a63a51c.png", "type": "img" }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "576a4b3b-4d0d-4f4d-ae63-5073374005f1",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 480,
+        "y": 0,
+        "w": 960,
+        "h": 540,
+        "point": null
+      },
+      "pivot": {
+        "id": "c7b74e2b-29d0-4872-b732-9c6764a5941b",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "8031b8fc-fab0-4c21-9f1e-8fbf9cbae49c",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 760,
+        "h": 851,
+        "scale": { "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "3097f0f6-701d-48b2-acc1-bc7b82cb2f4f",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "4fb6c8a1-b6d4-4b4c-bea5-ccffe4a6b7be",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 6000,
+        "to": [
+          { "p": { "x": 38, "y": 500, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 38, "y": 430, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "fontSize": "2.7vh",
+        "animation": "bounceInUp 1s ease both",
+        "color": "#00c1c0",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".1vw",
+        "paddingTop": "2.2vh"
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "什么是信息资产",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fill": "#48BEBE",
+            "letterSpacing": 1.5,
+            "fontWeight": "bold",
+            "fontSize": 16
+          },
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "?",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fill": "#48BEBE",
+            "letterSpacing": 1.5,
+            "fontWeight": "bold",
+            "fontSize": 30
+          },
+          "p": { "x": 125, "y": -14 }
+        },
+        {
+          "text": "信息资产是由各类有价值的信息集合所形成的资产或资产文件，包括\n但不限于文档、产品、服务、系统等。",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "letterSpacing": 1,
+            "fontSize": 12,
+            "lineHeight": 25
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 30 }
+        }
+      ],
+      "flow": {
+        "id": "03edb63c-ee62-43b4-ae05-69325879d826",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "b493e41e-7b59-47ed-8837-893e3c54ca8a",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "0142bdbc-3c4b-4255-84f4-ad988c6810de",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 38,
+        "y": 430,
+        "alpha": 0
+      },
+      "pivot": {
+        "id": "f4030bca-59a1-4879-a909-70afd26b714f",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "875a5176-d6d1-41cc-a898-103c79f1a152",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "52970e02-43f0-4ffb-8c92-ff06326fe5ca",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "abce3dcb-9134-4801-bbe8-673269ecf36d",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 9000,
+        "to": [
+          { "p": { "x": 510, "y": 100, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 510, "y": 85, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "2.7vh",
+        "color": "#00c1c0",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".1vw",
+        "paddingTop": "4.5vh",
+        "paddingBottom": "1.2vh",
+        "animation": "bounceInUp 1s ease both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "什么是信息安全",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fill": "#fff",
+            "letterSpacing": 1.5,
+            "fontWeight": "bold",
+            "fontSize": 16
+          },
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "?",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fill": "#fff",
+            "letterSpacing": 1.5,
+            "fontWeight": "bold",
+            "fontSize": 30
+          },
+          "p": { "x": 135, "y": -13 }
+        },
+        {
+          "text": "就是为保护企业信息资产而在技术和管理上采取的安全保护，保护信息\n资产不因偶然或恶意的原因遭到泄露、篡改或破坏。\n信息安全的目标是保护信息资产的 机密性、完整性 及 可用性。",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fill": "#fff",
+            "letterSpacing": 1,
+            "fontSize": 12,
+            "lineHeight": 25
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 30 }
+        }
+      ],
+      "flow": {
+        "id": "ff628752-87c5-4fe4-9849-1d78b272c24f",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "f5d14276-621a-4d5a-b93a-adfaf40cdd50",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "b98f5e4e-7eaf-4271-9d4f-22047aa360b3",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 510,
+        "y": 85
+      },
+      "pivot": {
+        "id": "ff3c0b79-647f-49d0-81c9-a6a520b02faa",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "60510e63-c7d6-412a-853e-8b4dac68d77a",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "1ec9f578-8b16-4adb-b556-b10f0fe9025a",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "e8d4fbd8-17d7-4807-a222-d2aec00db059",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 14000,
+        "to": [
+          { "p": { "x": 487, "y": 220, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 487, "y": 198, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "display": "block",
+        "width": "1.2vw",
+        "height": "4vh",
+        "position": "absolute",
+        "top": "16vh",
+        "right": "35vw",
+        "animation": "fadeInUpBig 0.5s ease both"
+      },
+      "label": null,
+      "type": "img",
+      "content": [
+        { "url": "92e7277c-ad6c-48b5-bf8b-94926c6331f0.png", "type": "img" }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "0b6c1163-6cfb-452f-b1cf-0503b69364a4",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 487,
+        "y": 198,
+        "w": "455",
+        "h": "305",
+        "point": null
+      },
+      "pivot": {
+        "id": "ad26b0df-beb6-443e-aa97-5fa10a2c4753",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "d128f346-df70-47f8-b40b-8fc4c349cd3d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 729,
+        "h": 543,
+        "scale": { "desc": "缩放比例", "ratio": 0.6 }
+      },
+      "spriteSourceSize": {
+        "id": "7a0544a9-cd8a-4927-b3a4-d9f9645242c8",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    }
+  ],
+  "meta": {
+    "id": "9ad42825-163c-42ba-a7b2-df36703efb76",
+    "texture_id": "52645b47-5d9f-4f03-83d8-d8a85154dfcf",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "579cf94b-63a3-43a0-8629-84f38df9dded",
+      "texture_meta_id": "e8a54e1b-753e-4406-ac75-0612ff63a917",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}

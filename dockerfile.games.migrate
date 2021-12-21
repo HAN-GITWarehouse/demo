@@ -1,0 +1,6 @@
+FROM uhub.service.ucloud.cn/humanrisk/01-games-api:nio.v1.0
+
+WORKDIR /var/www
+COPY ./.docker/conf/php/bin/run.sh /var/www
+RUN chmod 777 ./run.sh
+CMD [ "./run.sh" ] 

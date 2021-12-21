@@ -1,0 +1,584 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+    xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+    <p:cSld>
+        <p:spTree>
+            <p:nvGrpSpPr>
+                <p:cNvPr id="1" name=""/>
+                <p:cNvGrpSpPr/>
+                <p:nvPr/>
+            </p:nvGrpSpPr>
+            <p:grpSpPr>
+                <a:xfrm>
+                    <a:off x="0" y="0"/>
+                    <a:ext cx="0" cy="0"/>
+                    <a:chOff x="0" y="0"/>
+                    <a:chExt cx="0" cy="0"/>
+                </a:xfrm>
+            </p:grpSpPr>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="12" name="Textplatzhalter 4"/>
+                    <p:cNvSpPr txBox="1"/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="165750" y="1369593"/>
+                        <a:ext cx="6372224" cy="1289125"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle>
+                        <a:lvl1pPr marL="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClr>
+                                <a:schemeClr val="accent1"/>
+                            </a:buClr>
+                            <a:buSzPct val="100000"/>
+                            <a:buFont typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:buNone/>
+                            <a:defRPr sz="1000" b="0" i="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Light" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl1pPr>
+                        <a:lvl2pPr marL="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClr>
+                                <a:schemeClr val="accent1"/>
+                            </a:buClr>
+                            <a:buFont typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:buNone/>
+                            <a:defRPr sz="1000" b="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Bold" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl2pPr>
+                        <a:lvl3pPr marL="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="114000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClr>
+                                <a:schemeClr val="accent1"/>
+                            </a:buClr>
+                            <a:buFont typeface="+mj-lt"/>
+                            <a:buNone/>
+                            <a:defRPr sz="600" b="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Regular" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl3pPr>
+                        <a:lvl4pPr marL="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="114000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buFont typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:buNone/>
+                            <a:defRPr sz="600" b="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Bold" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl4pPr>
+                        <a:lvl5pPr marL="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClr>
+                                <a:schemeClr val="accent1"/>
+                            </a:buClr>
+                            <a:buFont typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:buNone/>
+                            <a:defRPr sz="1500" b="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Light" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl5pPr>
+                        <a:lvl6pPr marL="0" marR="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" fontAlgn="auto" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClr>
+                                <a:schemeClr val="accent1"/>
+                            </a:buClr>
+                            <a:buSzTx/>
+                            <a:buFont typeface="+mj-lt"/>
+                            <a:buNone/>
+                            <a:defRPr sz="1500" b="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Bold" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl6pPr>
+                        <a:lvl7pPr marL="0" marR="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" fontAlgn="auto" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClrTx/>
+                            <a:buSzTx/>
+                            <a:buFont typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:buNone/>
+                            <a:defRPr sz="1000" b="0" kern="1200" spc="300" baseline="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Light" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl7pPr>
+                        <a:lvl8pPr marL="0" marR="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" fontAlgn="auto" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClrTx/>
+                            <a:buSzTx/>
+                            <a:buFont typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:buNone/>
+                            <a:defRPr sz="800" b="0" kern="1200" spc="300" baseline="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Light" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl8pPr>
+                        <a:lvl9pPr marL="171450" marR="0" indent="-171450" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" fontAlgn="auto" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClr>
+                                <a:schemeClr val="accent1"/>
+                            </a:buClr>
+                            <a:buSzTx/>
+                            <a:buFont typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1000" b="0" kern="1200" cap="none" baseline="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Light" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl9pPr>
+                    </a:lstStyle>
+                    <a:p>
+                        <a:r>
+                            <a:rPr lang="zh-CN" altLang="en-US" sz="3600" dirty="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            </a:rPr>
+                            <a:t>信息安全意识培训</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="en-US" dirty="0">
+                            <a:solidFill>
+                                <a:schemeClr val="bg1"/>
+                            </a:solidFill>
+                            <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            <a:ea typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="13" name="Textplatzhalter 4"/>
+                    <p:cNvSpPr txBox="1"/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="165750" y="3459212"/>
+                        <a:ext cx="6372224" cy="714064"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr/>
+                    <a:lstStyle>
+                        <a:lvl1pPr marL="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClr>
+                                <a:schemeClr val="accent1"/>
+                            </a:buClr>
+                            <a:buSzPct val="100000"/>
+                            <a:buFont typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:buNone/>
+                            <a:defRPr sz="1000" b="0" i="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Light" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl1pPr>
+                        <a:lvl2pPr marL="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClr>
+                                <a:schemeClr val="accent1"/>
+                            </a:buClr>
+                            <a:buFont typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:buNone/>
+                            <a:defRPr sz="1000" b="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Bold" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl2pPr>
+                        <a:lvl3pPr marL="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="114000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClr>
+                                <a:schemeClr val="accent1"/>
+                            </a:buClr>
+                            <a:buFont typeface="+mj-lt"/>
+                            <a:buNone/>
+                            <a:defRPr sz="600" b="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Regular" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl3pPr>
+                        <a:lvl4pPr marL="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="114000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buFont typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:buNone/>
+                            <a:defRPr sz="600" b="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Bold" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl4pPr>
+                        <a:lvl5pPr marL="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClr>
+                                <a:schemeClr val="accent1"/>
+                            </a:buClr>
+                            <a:buFont typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:buNone/>
+                            <a:defRPr sz="1500" b="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Light" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl5pPr>
+                        <a:lvl6pPr marL="0" marR="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" fontAlgn="auto" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClr>
+                                <a:schemeClr val="accent1"/>
+                            </a:buClr>
+                            <a:buSzTx/>
+                            <a:buFont typeface="+mj-lt"/>
+                            <a:buNone/>
+                            <a:defRPr sz="1500" b="0" kern="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Bold" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl6pPr>
+                        <a:lvl7pPr marL="0" marR="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" fontAlgn="auto" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClrTx/>
+                            <a:buSzTx/>
+                            <a:buFont typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:buNone/>
+                            <a:defRPr sz="1000" b="0" kern="1200" spc="300" baseline="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Light" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl7pPr>
+                        <a:lvl8pPr marL="0" marR="0" indent="0" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" fontAlgn="auto" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClrTx/>
+                            <a:buSzTx/>
+                            <a:buFont typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:buNone/>
+                            <a:defRPr sz="800" b="0" kern="1200" spc="300" baseline="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Light" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl8pPr>
+                        <a:lvl9pPr marL="171450" marR="0" indent="-171450" algn="l" defTabSz="685800" rtl="0" eaLnBrk="1" fontAlgn="auto" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPts val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="1000"/>
+                            </a:spcAft>
+                            <a:buClr>
+                                <a:schemeClr val="accent1"/>
+                            </a:buClr>
+                            <a:buSzTx/>
+                            <a:buFont typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:buChar char="•"/>
+                            <a:defRPr sz="1000" b="0" kern="1200" cap="none" baseline="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="tx1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Standard Light" panose="02000000000000000000" pitchFamily="2" charset="0"/>
+                                <a:ea typeface="+mn-ea"/>
+                                <a:cs typeface="+mn-cs"/>
+                            </a:defRPr>
+                        </a:lvl9pPr>
+                    </a:lstStyle>
+                    <a:p>
+                        <a:r>
+                            <a:rPr lang="ja-JP" altLang="en-US" sz="1600" dirty="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            </a:rPr>
+                            <a:t>日期  </a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="en-US" altLang="ja-JP" sz="1600" dirty="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            </a:rPr>
+                            <a:t>2021/10</a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="ja-JP" altLang="en-US" sz="1600" dirty="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            </a:rPr>
+                            <a:t></a:t>
+                        </a:r>
+                        <a:endParaRPr lang="en-US" altLang="zh-TW" sz="1600" dirty="0">
+                            <a:solidFill>
+                                <a:schemeClr val="bg1"/>
+                            </a:solidFill>
+                            <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            <a:ea typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:pic>
+                <p:nvPicPr>
+                    <p:cNvPr id="16" name="Picture 15"/>
+                    <p:cNvPicPr>
+                        <a:picLocks noChangeAspect="1"/>
+                    </p:cNvPicPr>
+                    <p:nvPr/>
+                </p:nvPicPr>
+                <p:blipFill>
+                    <a:blip r:embed="rId1" cstate="screen"/>
+                    <a:stretch>
+                        <a:fillRect/>
+                    </a:stretch>
+                </p:blipFill>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="272858" y="228344"/>
+                        <a:ext cx="978092" cy="340755"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                </p:spPr>
+            </p:pic>
+        </p:spTree>
+    </p:cSld>
+    <p:clrMapOvr>
+        <a:masterClrMapping/>
+    </p:clrMapOvr>
+    <p:timing>
+        <p:tnLst>
+            <p:par>
+                <p:cTn id="1" dur="indefinite" restart="never" nodeType="tmRoot"/>
+            </p:par>
+        </p:tnLst>
+    </p:timing>
+</p:sld>

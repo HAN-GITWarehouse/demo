@@ -1,0 +1,517 @@
+{
+  "id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+  "lang": "en",
+  "name": null,
+  "type": null,
+  "style": { "flex": 1, "padding": "7.5vh 5.4vw", "overflow": "hidden" },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "content": {
+    "id": "a1e4113d-9877-4f82-b246-a51c0eaf7666",
+    "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+    "succeed": 1,
+    "bgcolor": "ffffff",
+    "point": null
+  },
+  "frames": [
+    {
+      "id": "7c20ada2-d75e-44d8-a098-072e02e24c6a",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+      "type": "p",
+      "style": {
+        "fontSize": 35,
+        "paddingBottom": "1.9vh",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "fontsize": 24,
+      "content": [
+        {
+          "text": "Year 2020 has the most serious data leakage since years",
+          "style-type": "title-en",
+          "type": "txt",
+          "fill": "",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "2ec5146d-59cb-4854-bba2-4bb8a9422cc2",
+        "texture_frames_id": "55b7186c-f1c7-41eb-af1e-645c78a3079d",
+        "type": "Flow",
+        "target_id": "a10c0d79-94c1-41cb-b42a-dab5686eb468",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "db35f9f4-f821-4fab-943d-4e7f2fcda8af",
+        "texture_frames_id": "7c20ada2-d75e-44d8-a098-072e02e24c6a",
+        "x": 90,
+        "y": 30
+      },
+      "pivot": {
+        "id": "de778af4-001d-4ade-9f0a-59d822f15e63",
+        "texture_frames_id": "d90f497d-eab7-4c83-95d4-808246fdfaa1",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "15198d3c-3505-48b9-b3ed-9ac930f34cc9",
+        "texture_frames_id": "a01a1b22-2a0a-4011-93c1-d3ac6cd8c444",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "d8e8536e-d6cb-4f83-86cb-26d55d76e008",
+        "texture_frames_id": "06bd6d6d-00d2-4206-994b-921893f70310",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "22e11326-fb69-49e2-91b8-769aebc12f34",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "fontSize": "3vh",
+        "paddingTop": "1.9vh",
+        "fontFamily": "Blue Sky Noto-Light",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "Looking back to 2020, large-scale data breaches occurred frequently, showing an increasing trend of outbreak.",
+          "style-type": "text-en",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "ebb27947-f4a2-4ca2-96bf-1b7591be6c5a",
+        "texture_frames_id": "d9de9439-e75c-45b5-89ec-61012198916f",
+        "type": "Flow",
+        "target_id": "8564f323-ac38-443d-868b-b219e9cb59c5",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "0a20471b-d7b9-4237-930b-77786fa01fd5",
+        "texture_frames_id": "22e11326-fb69-49e2-91b8-769aebc12f34",
+        "x": 90,
+        "y": 90
+      },
+      "pivot": {
+        "id": "83a22340-b4bb-4270-8231-649fcc85f4f4",
+        "texture_frames_id": "fe447a92-ef42-4179-8bbf-3fc0965a28c0",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "9d66e70a-3aa0-4fa0-922d-d5957fe2fc04",
+        "texture_frames_id": "20f6f7e6-fde4-4f11-863b-a965bd87ce3c",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "5def1a1d-6b3d-4746-9fb3-270928b859a3",
+        "texture_frames_id": "46b99fb6-45a3-4741-b0db-88a74b8110a7",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "c063c256-6e92-45cb-9ab9-ba0e0d4b154c",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "fontSize": "3vh",
+        "paddingTop": "1.9vh",
+        "fontFamily": "Blue Sky Noto-Light",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "In 2020,",
+          "style-type": "text-en",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "36 billion ",
+          "style-type": "title-highlight-en",
+          "type": "txt",
+          "p": { "x": 50, "y": -3 }
+        },
+        {
+          "text": "__________ ",
+          "style-type": "title-highlight-en",
+          "type": "txt",
+          "p": { "x": 50, "y": 0 }
+        },
+        {
+          "text": "records of data were leaked, and the average cost of a data breach was ",
+          "style-type": "text-en",
+          "type": "txt",
+          "p": { "x": 120, "y": 0 }
+        },
+        {
+          "text": "$3.86 ",
+          "style-type": "title-highlight-en",
+          "type": "txt",
+          "p": { "x": 540, "y": -3 }
+        },
+        {
+          "text": "______ ",
+          "style-type": "title-highlight-en",
+          "type": "txt",
+          "p": { "x": 540, "y": 0 }
+        },
+        {
+          "text": " million.",
+          "style-type": "text-en",
+          "type": "txt",
+          "p": { "x": 580, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "4e4edcca-754e-4f6f-a4ad-57b0e59d8b71",
+        "texture_frames_id": "1AFF3CC5-4AF4-47B0-8F45-21C5D544527E",
+        "type": "Flow",
+        "target_id": "8AD8B992-DCCD-4FB3-9A3D-1742DDFF9017",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "6d265bb8-358c-44fd-b1b5-e30c8c9a436a",
+        "texture_frames_id": "c063c256-6e92-45cb-9ab9-ba0e0d4b154c",
+        "x": 90,
+        "y": 120
+      },
+      "pivot": {
+        "id": "7908ca41-75dc-4a73-8483-6799a1a7560d",
+        "texture_frames_id": "8b71e424-b513-46cb-83fe-73e59c54d5cb",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "c686cba6-ea36-4948-ae15-01485b90df25",
+        "texture_frames_id": "9c26425e-eb14-40c2-9eef-6504b63dd05c",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "5def1a1d-6b3d-4746-9fb3-270928b859a3",
+        "texture_frames_id": "46b99fb6-45a3-4741-b0db-88a74b8110a7",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "99adf216-ee47-4094-a9c1-e927433a1fcc",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+      "animation": null,
+      "style": {
+        "fontSize": "3vh",
+        "paddingTop": "1.9vh",
+        "fontFamily": "Blue Sky Noto-Light",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "On the one hand, data leakage brought direct and indirect economic losses to the enterprises (huge fines (suchas GDPR) ,",
+          "style-type": "text-en",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "0eba38fd-dea3-494c-b39c-480d0a181de9",
+        "texture_frames_id": "7a6a63b6-2574-4992-8b5d-f149fefc445d",
+        "type": "Flow",
+        "target_id": "871989ee-851c-4657-9d21-7d1cdfda78a3",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "d26e902b-01ce-4b61-affe-dcabd069a4a2",
+        "texture_frames_id": "99adf216-ee47-4094-a9c1-e927433a1fcc",
+        "x": 90,
+        "y": 150
+      },
+      "pivot": {
+        "id": "d269cd06-8435-4bf5-96f8-669d188da391",
+        "texture_frames_id": "f355123e-5910-46b5-8e56-65d16fe91312",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "451bccbe-f664-4b2f-bcc1-5933b4b171a9",
+        "texture_frames_id": "2a01720a-99c7-45e6-8ece-54a046e95110",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "5c653de9-f4bd-4321-9817-4ede22dd1475",
+        "texture_frames_id": "acf2c2e0-b6aa-43c0-bd08-da28f4eae9fe",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "c063c256-6e92-45cb-9ab9-ba0e0d4b154s",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+      "animation": null,
+      "style": {
+        "fontSize": "3vh",
+        "paddingTop": "1.9vh",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "post-processing costs and reputation recovery costs);",
+          "style-type": "text-en",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "0eba38fd-dea3-494c-b39c-480d0a181de9",
+        "texture_frames_id": "7a6a63b6-2574-4992-8b5d-f149fefc445d",
+        "type": "Flow",
+        "target_id": "871989ee-851c-4657-9d21-7d1cdfda78a3",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "d26e902b-01ce-4b61-affe-dcabd069a4a2",
+        "texture_frames_id": "99adf216-ee47-4094-a9c1-e927433a1fcc",
+        "x": 90,
+        "y": 180
+      },
+      "pivot": {
+        "id": "d269cd06-8435-4bf5-96f8-669d188da391",
+        "texture_frames_id": "f355123e-5910-46b5-8e56-65d16fe91312",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "451bccbe-f664-4b2f-bcc1-5933b4b171a9",
+        "texture_frames_id": "2a01720a-99c7-45e6-8ece-54a046e95110",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "5c653de9-f4bd-4321-9817-4ede22dd1475",
+        "texture_frames_id": "acf2c2e0-b6aa-43c0-bd08-da28f4eae9fe",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "f37bf40c-d0ee-4ce3-acf5-d02ef6cf5c1b",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+      "animation": null,
+      "style": {
+        "fontSize": "3vh",
+        "paddingTop": "1.9vh",
+        "fontFamily": "Blue Sky Noto-Light",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "On the other hand, the vast majority of large-scale data leakage events contains personal information, which might bring ",
+          "style-type": "text-en",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "06423883-7978-4e83-a0bc-df71ceb0c8c4",
+        "texture_frames_id": "b4a48419-97bd-48a7-96a8-92b23907789e",
+        "type": "Flow",
+        "target_id": "1dc24b8b-a84d-472b-8527-a282e22e5125",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "1db00ca0-3a50-40c2-ba49-f186c6d6d2ef",
+        "texture_frames_id": "f37bf40c-d0ee-4ce3-acf5-d02ef6cf5c1b",
+        "x": 90,
+        "y": 210
+      },
+      "pivot": {
+        "id": "c281fa83-4913-4286-87fd-a4a7a49d0255",
+        "texture_frames_id": "fbe1a9fc-85ec-4a60-9efa-e71f72e53117",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "44ea3eaa-5c83-44a9-890e-6743530c1db8",
+        "texture_frames_id": "191aa408-348f-4f1a-8879-41df55f3cf82",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "fdbb780b-47ea-44b2-b119-8eb81eeee1ab",
+        "texture_frames_id": "616e1e4e-7d3f-43f3-811f-9634ae156e01",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "f37bf40c-d0ee-4ce3-acf5-d02ef6cf5c1a",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+      "animation": null,
+      "style": {
+        "fontSize": "3vh",
+        "paddingTop": "1.9vh",
+        "fontFamily": "Blue Sky Noto-Light",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "potential harm to the individuals involved.",
+          "style-type": "text-en",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "06423883-7978-4e83-a0bc-df71ceb0c8c4",
+        "texture_frames_id": "b4a48419-97bd-48a7-96a8-92b23907789e",
+        "type": "Flow",
+        "target_id": "1dc24b8b-a84d-472b-8527-a282e22e5125",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "1db00ca0-3a50-40c2-ba49-f186c6d6d2ef",
+        "texture_frames_id": "f37bf40c-d0ee-4ce3-acf5-d02ef6cf5c1a",
+        "x": 90,
+        "y": 240
+      },
+      "pivot": {
+        "id": "c281fa83-4913-4286-87fd-a4a7a49d0255",
+        "texture_frames_id": "fbe1a9fc-85ec-4a60-9efa-e71f72e53117",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "44ea3eaa-5c83-44a9-890e-6743530c1db8",
+        "texture_frames_id": "191aa408-348f-4f1a-8879-41df55f3cf82",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "fdbb780b-47ea-44b2-b119-8eb81eeee1ab",
+        "texture_frames_id": "616e1e4e-7d3f-43f3-811f-9634ae156e01",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "ba3b5824-06b6-470a-9658-e9a470111a89",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+      "animation": null,
+      "tweens": null,
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "img",
+      "content": [
+        { "type": "img", "url": "92800628-db18-40a5-a8aa-03aac8f93dc6.png" }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 150,
+        "y": 290,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": 845,
+        "h": 301,
+        "scale": { "desc": "缩放比例", "ratio": 0.66 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    }
+  ],
+  "meta": {
+    "id": "bc614b73-7118-44a4-8999-b1a22c8cc16e",
+    "texture_id": "0c75b4e4-fc50-4fbb-af58-a3ab53e50f87",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "d234ce08-646d-454e-83cb-6e3f8c495c5a",
+      "texture_meta_id": "dfc0819c-dc75-4757-8691-10de6f58b8c3",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}

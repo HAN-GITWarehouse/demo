@@ -1,0 +1,1029 @@
+{
+  "id": "148587c6-5ec5-4916-92d2-8709bdb2ef25",
+  "lang": "cn",
+  "name": null,
+  "type": null,
+  "style": {
+    "flex": 1,
+    "padding": "6.5vh 7.5vw",
+    "overflow": "hidden",
+    "position": "relative",
+    "background": "linear-gradient(to right, #fff 50%, #004a63 50%)"
+  },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "content": {
+    "id": "54d42f16-ae67-40a2-b565-1fa9b6a05b7b",
+    "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+    "succeed": 1,
+    "bgcolor": "ffffff",
+    "point": null
+  },
+  "frames": [
+    {
+      "id": "c65b4fed-cd7a-40d4-bf1b-b66e2becb1c1",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "null",
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "信息安全规范",
+          "style-type": "title",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "- 终端安全及数据安全",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "letterSpacing": 1.5,
+            "fontSize": 15
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 30 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 25,
+        "y": 30
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "44cb8c8f-22f9-40ce-8520-6f45f2354f63",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "null",
+      "type": "img",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "c740b372-632b-4c20-9684-ce1f3a452e19.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 96,
+        "y": 100,
+        "w": 550,
+        "h": 120
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 918,
+        "h": 205,
+        "scale": { "desc": "缩放比例", "ratio": 0.6 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "2adc6fb7-d7bf-4aab-afae-47b970ab0693",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "null",
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "电脑作为常用的办公工具之一，在协助完成日常工作的同时，也面临着一\n系列的安全风险。这些风险一部分来自外部的攻击，一部分是员工日常使\n用不规范导致。因此我们需要合规使用电脑，妥善保管电脑。",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 13.9,
+            "lineHeight": 25,
+            "letterSpacing": 1
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": -10 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 118,
+        "y": 125
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "7b69d91a-f710-483e-af2a-2e0cc099f58b",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "null",
+      "type": "img",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "978720d5-973a-4694-84ad-1f406549473a.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 667,
+        "y": 200,
+        "w": 196,
+        "h": 215
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 435,
+        "h": 381,
+        "scale": { "desc": "缩放比例", "ratio": 0.6 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "005a081d-e959-4aa0-bd51-7c38cd4e2f8c",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 5000,
+        "to": [
+          { "p": { "x": 25, "y": 100, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 25, "y": 145, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "img",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "be54174a-dd8f-4a58-aa28-104d405c53a0.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 25,
+        "y": 160,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 95,
+        "h": 554,
+        "scale": { "desc": "缩放比例", "ratio": 0.63 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "16c1e78a-c1a2-44bd-ade9-f8f0ea309c4e",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 7000,
+        "to": [
+          { "p": { "x": 90, "y": 238, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 238, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "禁止将公司配发的电子设备，包括电脑，手机，平板，U盘等借给他人使用；",
+          "type": "txt",
+          "style-type": "text",
+          "p": { "x": 15, "y": -5.5 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 238,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "37b3497c-94dc-42e9-9890-4fa36271fcc0",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 9000,
+        "to": [
+          { "p": { "x": 90, "y": 268, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 268, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "禁止在公司电脑上下载或安装非授权软件；",
+          "type": "txt",
+          "style-type": "text",
+          "p": { "x": 15, "y": -5.5 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 268,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "94a8b654-6903-48bf-8de4-370f6b861c8d",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 11000,
+        "to": [
+          { "p": { "x": 90, "y": 298, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 298, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "离开电脑立即锁屏；",
+          "type": "txt",
+          "style-type": "text",
+          "p": { "x": 15, "y": -5.5 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 298,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "b463ab87-6f23-4ec6-b7aa-552974c5d0ac",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 13000,
+        "to": [
+          { "p": { "x": 90, "y": 328, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 328, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "下班前必须将笔记本电脑放到带锁的柜子内；",
+          "type": "txt",
+          "style-type": "text",
+          "p": { "x": 15, "y": -5.5 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 328,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "5fd68924-571f-41d9-8d07-01d8e0f7f733",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 15000,
+        "to": [
+          { "p": { "x": 90, "y": 358, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 358, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "若电脑遗失，应立即向2500报告；",
+          "type": "txt",
+          "style-type": "text",
+          "p": { "x": 15, "y": -5 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 358,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "6cb96572-558f-48ab-a0cd-cf15380a5dbb",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 17000,
+        "to": [
+          { "p": { "x": 90, "y": 388, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 388, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "应设置强密码，即12位及以上，包括大小写英文字母，数字，特殊字符(四种中的三种);",
+          "type": "txt",
+          "style-type": "text",
+          "p": { "x": 15, "y": -5 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 388,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "3c10844e-225a-4115-ab01-2dac77c432ea",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 19000,
+        "to": [
+          { "p": { "x": 90, "y": 418, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 418, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "禁止与同事、家人、朋友分享用户名密码；",
+          "type": "txt",
+          "style-type": "text",
+          "p": { "x": 15, "y": -5 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 418,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "c69c474f-d0a4-44aa-ac29-bb5ad20138dd",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 21000,
+        "to": [
+          { "p": { "x": 90, "y": 448, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 448, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "禁止将用户名密码存储在云笔记中，或直接张贴在电脑或者桌面上；",
+          "type": "txt",
+          "style-type": "text",
+          "p": { "x": 15, "y": -5 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 448,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "c906b633-6446-45b6-aa4d-17f8436d3d5d",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 23000,
+        "to": [
+          { "p": { "x": 90, "y": 478, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 478, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5d2596ea-5cb6-4094-b38d-6e7578b1cae7.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "禁止将个人设备，如电脑，手机等接入公司内网；",
+          "type": "txt",
+          "style-type": "text",
+          "p": { "x": 15, "y": -5 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 478,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    }
+  ],
+  "meta": {
+    "id": "9ad42825-163c-42ba-a7b2-df36703efb76",
+    "texture_id": "52645b47-5d9f-4f03-83d8-d8a85154dfcf",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "579cf94b-63a3-43a0-8629-84f38df9dded",
+      "texture_meta_id": "e8a54e1b-753e-4406-ac75-0612ff63a917",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}

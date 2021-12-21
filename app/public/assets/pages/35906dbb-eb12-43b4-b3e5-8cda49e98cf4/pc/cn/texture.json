@@ -1,0 +1,335 @@
+{
+  "id": "35906dbb-eb12-43b4-b3e5-8cda49e98cf4",
+  "lang": "cn",
+  "name": null,
+  "type": null,
+  "style": {
+    "flex": "1",
+    "background": "#fff",
+    "position": "relative",
+    "overflow": "hidden"
+  },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "frames": [
+    {
+      "id": "2ba4973a-3407-4f7c-b055-538952bb3016",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "img",
+      "label": null,
+      "content": [
+        {
+          "url": "35906dbb-eb12-43b4-b3e5-8cda49e98cf4.90.jpg",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 960,
+        "h": 540
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 1920,
+        "h": 1080,
+        "scale": { "desc": "缩放比例", "ratio": 0.51 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "53a1a8ca-95a1-4c04-be3d-32bfa22f88fc",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "35906dbb-eb12-43b4-b3e5-8cda49e98cf4",
+      "animation": "null",
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "type": "ant",
+          "url": "35906dbb-eb12-43b4-b3e5-8cda49e98cf4",
+          "range": { "start": 13, "end": 90 },
+          "p": {
+            "x": 0,
+            "y": 0
+          },
+          "loop": false
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 1920,
+        "h": 1080,
+        "scale": { "desc": "缩放比例", "ratio": 0.5 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "de326d76-b02a-41ae-8af9-380e08a954d3",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "35906dbb-eb12-43b4-b3e5-8cda49e98cf4",
+      "animation": "move",
+      "tweens": {
+        "wait": 1500,
+        "to": [
+          { "p": { "x": -100, "y": 400, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 70, "y": 400, "alpha": 1 }, "s": 350 },
+          { "p": { "x": 50, "y": 400, "alpha": 1 }, "s": 200 },
+          { "p": { "x": 70, "y": 400, "alpha": 1 }, "s": 0 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "type": "draw",
+          "drawings": [
+            {
+              "color": "0xffffff",
+              "alpha": 1,
+              "drawing": [
+                {
+                  "method": "lineStyle",
+                  "args": [1, "0xdb0815", 1]
+                },
+                {
+                  "method": "drawRoundedRect",
+                  "args": [0, 0, 180, 25, 15]
+                }
+              ]
+            },
+            {
+              "color": "0xdb0815",
+              "alpha": 1,
+              "drawing": [
+                {
+                  "method": "lineStyle",
+                  "args": [1, "0xdb0815", 1]
+                },
+                {
+                  "method": "drawRoundedRect",
+                  "args": [150, 0, 150, 25, 15]
+                }
+              ]
+            },
+            {
+              "color": "0xffffff",
+              "alpha": 1,
+              "drawing": [
+                {
+                  "method": "lineStyle",
+                  "args": [0, "0xffffff", 1]
+                },
+                {
+                  "method": "drawRect",
+                  "args": [30, 0, 120, 23]
+                }
+              ]
+            },
+            {
+              "color": "0xdb0815",
+              "alpha": 1,
+              "drawing": [
+                {
+                  "method": "lineStyle",
+                  "args": [0, "0xffffff", 1]
+                },
+                {
+                  "method": "drawRect",
+                  "args": [150, 0, 120, 25]
+                }
+              ]
+            },
+            {
+              "color": "0xffffff",
+              "alpha": 0,
+              "drawing": [
+                {
+                  "method": "lineStyle",
+                  "args": [1, "0xdb0815", 1]
+                },
+                {
+                  "method": "drawRoundedRect",
+                  "args": [0, 0, 300, 25, 15]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "draw",
+          "flow": "/?id=5e1e2425-0606-4e99-9238-414bfa9c1794&lang=cn",
+          "drawings": [
+            {
+              "color": "0xffffff",
+              "alpha": 1,
+              "drawing": [
+                {
+                  "method": "lineStyle",
+                  "args": [0, "0xffffff", 1]
+                },
+                {
+                  "method": "drawRect",
+                  "args": [30, 1, 120, 23]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "draw",
+          "flow": "/?id=5e1e2425-0606-4e99-9238-414bfa9c1794&lang=en",
+          "drawings": [
+            {
+              "color": "0xdb0815",
+              "alpha": 1,
+              "drawing": [
+                {
+                  "method": "lineStyle",
+                  "args": [0, "0xdb0815", 1]
+                },
+                {
+                  "method": "drawRect",
+                  "args": [150, 1, 120, 23]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "txt",
+          "text": "中文",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "letterSpacing": 1.5,
+            "fontSize": 20
+          },
+          "p": { "x": 60, "y": 2 }
+        },
+        {
+          "type": "txt",
+          "text": "ENGLISH",
+          "style": {
+            "fill": "0xffffff",
+            "fontFamily": "Blue Sky Noto-Regular",
+            "letterSpacing": 1.5,
+            "fontSize": 20
+          },
+          "p": { "x": 180, "y": 2 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 70,
+        "y": 380
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b"
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    }
+  ],
+  "meta": {
+    "id": "93f2ccff-94b3-4ad1-a8fd-e4fd640cef79",
+    "texture_id": "cc2d7a42-67e7-477f-8320-66b57d669251",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "3b1cbc23-9215-4b75-92f8-a7c94f679c7a",
+      "texture_meta_id": "8d9c437a-79e2-483b-9aaa-55f4f1767187",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}

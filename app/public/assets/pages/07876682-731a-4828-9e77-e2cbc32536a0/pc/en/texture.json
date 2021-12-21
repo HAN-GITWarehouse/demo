@@ -1,0 +1,1319 @@
+{
+  "id": "07876682-731a-4828-9e77-e2cbc32536a0",
+  "lang": "en",
+  "name": null,
+  "type": null,
+  "style": { "padding": "7.5vh 5.4vw", "overflow": "hidden" },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "content": {
+    "id": "c0241bfc-b934-488f-91a5-930fc03045f1",
+    "texture_id": "93ebf9dc-8490-405a-8ca1-7daf56c4ca89",
+    "succeed": 1,
+    "bgcolor": "ffffff",
+    "point": null
+  },
+  "frames": [
+    {
+      "id": "c65b4fed-cd7a-40d4-bf1b-b66e2becb1c1",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "null",
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "Information Security Specification",
+          "style-type": "title-en",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "- Partner Security Management",
+          "style": { "fontFamily": "Blue Sky Noto-Light", "fontSize": 15 },
+          "type": "txt",
+          "p": { "x": 0, "y": 30 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 25,
+        "y": 30
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "93a06a24-2c31-4bb8-91ef-3da5a5a8cc3c",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "img",
+      "label": null,
+      "content": [
+        {
+          "url": "6acb79d0-d848-4575-aece-9bc00c4231bb.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 100,
+        "y": 100,
+        "w": 650,
+        "h": 30
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 1026,
+        "h": 51,
+        "scale": { "desc": "缩放比例", "ratio": 0.6 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "381e4b95-bee1-42d8-9097-261e9af3ea45",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "animation": "null",
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "Who are the partners?",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#fff"
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 351,
+        "y": 109
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "dc3c054c-8785-4e20-91c4-83a817e9d03f",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "img",
+      "label": null,
+      "content": [
+        {
+          "url": "117edd18-f4ab-4840-bb4b-66b3d0c062ce.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 715,
+        "y": 105,
+        "w": 650,
+        "h": 30
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 197,
+        "h": 178,
+        "scale": { "desc": "缩放比例", "ratio": 0.6 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "7ebf06b0-c288-45b3-932c-09f01cf260fa",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "animation": "null",
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "01",
+          "style": { "fontFamily": "Blue Sky Noto-Regular", "fontSize": 68 },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 737,
+        "y": 125
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "33967123-b534-4c69-b27e-f08b306b2521",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "img",
+      "animation": "move",
+      "tweens": {
+        "wait": 1500,
+        "to": [
+          { "p": { "x": 135, "y": 138, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 145, "y": 138, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "5c00d72d-c04c-4254-b683-5026cafb12f5.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 124,
+        "y": 135,
+        "w": 650,
+        "h": 100
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 899,
+        "h": 151,
+        "scale": { "desc": "缩放比例", "ratio": 0.55 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "810fff1f-d57d-441c-a917-ade7ddb0b8b5",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "img",
+      "animation": "move",
+      "tweens": {
+        "wait": 3500,
+        "to": [
+          { "p": { "x": 218, "y": 226, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 218, "y": 226, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "6acb79d0-d848-4575-aece-9bc00c4231bb.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 218,
+        "y": 226,
+        "w": 650,
+        "h": 30
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 1026,
+        "h": 51,
+        "scale": { "desc": "缩放比例", "ratio": 0.6 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "0857098d-06c1-478d-b078-68b6092b05f5",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "p",
+      "animation": "move",
+      "tweens": {
+        "wait": 3500,
+        "to": [
+          { "p": { "x": 355, "y": 236, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 300, "y": 236, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "Information security risks of partners",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#fff"
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 355,
+        "y": 235
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "f45b23e5-34ca-46bb-8949-aca6e5f5619e",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "img",
+      "animation": "move",
+      "tweens": {
+        "wait": 3500,
+        "to": [
+          { "p": { "x": 100, "y": 231, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 100, "y": 231, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "117edd18-f4ab-4840-bb4b-66b3d0c062ce.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 100,
+        "y": 231,
+        "w": 650,
+        "h": 30
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 197,
+        "h": 178,
+        "scale": { "desc": "缩放比例", "ratio": 0.6 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "2878ffc1-11df-436f-8f42-1489d983f610",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "animation": "move",
+      "tweens": {
+        "wait": 3500,
+        "to": [
+          { "p": { "x": 114, "y": 256, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 114, "y": 253, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "02",
+          "style": { "fontFamily": "Blue Sky Noto-Regular", "fontSize": 68 },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 114,
+        "y": 253
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "ecc20b05-867f-4251-9c4f-8b6348823fa1",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "p",
+      "animation": "move",
+      "tweens": {
+        "wait": 5500,
+        "to": [
+          { "p": { "x": 210, "y": 268, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 238, "y": 268, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "Since partners can enter the company and access some office devices, documents and materials, etc., we should \nprevent them from bringing information security risks to the company. These risks include but are not limited to \ndata leakage, device and materials theft, hardware and software failures, unauthorized access to systems and \nsystems/software backdoors.",
+          "style-type": "blue-ligth-10-h",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 238,
+        "y": 268
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "66bf5550-37b0-4588-9946-7b32847e5f27",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "img",
+      "animation": "move",
+      "tweens": {
+        "wait": 5500,
+        "to": [
+          { "p": { "x": 100, "y": 349, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 100, "y": 349, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "6acb79d0-d848-4575-aece-9bc00c4231bb.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 100,
+        "y": 349,
+        "w": 650,
+        "h": 30
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 1026,
+        "h": 51,
+        "scale": { "desc": "缩放比例", "ratio": 0.6 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "0857098d-06c1-478d-b078-68b6092b05f6",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "p",
+      "animation": "move",
+      "tweens": {
+        "wait": 3500,
+        "to": [
+          { "p": { "x": 360, "y": 354, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 320, "y": 354, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "Partner security management",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#fff"
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 355,
+        "y": 235
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "9f16903f-a162-495c-b095-50b08ee50f67",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "img",
+      "animation": "move",
+      "tweens": {
+        "wait": 5500,
+        "to": [
+          { "p": { "x": 715, "y": 354, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 715, "y": 354, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "117edd18-f4ab-4840-bb4b-66b3d0c062ce.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 715,
+        "y": 354,
+        "w": 650,
+        "h": 30
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 197,
+        "h": 178,
+        "scale": { "desc": "缩放比例", "ratio": 0.6 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "bba20bbc-149d-45e6-8016-b694fc148d76",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "animation": "move",
+      "tweens": {
+        "wait": 5500,
+        "to": [
+          { "p": { "x": 731, "y": 376, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 731, "y": 370, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "03",
+          "style": { "fontFamily": "Blue Sky Noto-Regular", "fontSize": 68 },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 731,
+        "y": 376
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "9d321b8f-1699-46ca-82c6-9c1f8dac14b7",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "p",
+      "animation": "move",
+      "tweens": {
+        "wait": 9000,
+        "to": [
+          { "p": { "x": 90, "y": 390, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 100, "y": 390, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "An Non-Disclosure \nAgreement \nmust be \nsigned before \ncooperation.",
+          "style-type": "blue-ligth-10",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 100,
+        "y": 390,
+        "w": 123,
+        "h": 48
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 815,
+        "h": 437
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "9d321b8f-1698-46ca-82c6-9c1f8dac14b7",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "p",
+      "animation": "move",
+      "tweens": {
+        "wait": 9000,
+        "to": [
+          { "p": { "x": 190, "y": 410, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 190, "y": 410, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "4947e090-6598-4cbe-ae0c-58f7e92360bf.png",
+          "type": "img"
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 190,
+        "y": 390,
+        "w": 25,
+        "h": 18
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 815,
+        "h": 437,
+        "scale": { "desc": "缩放比例", "ratio": 0.55 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "9d321b8f-1899-46ca-82c6-9c1f8dac14b7",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "img",
+      "animation": "move",
+      "tweens": {
+        "wait": 12500,
+        "to": [
+          { "p": { "x": 220, "y": 390, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 240, "y": 390, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "Partners must \nattend \ninformation \nsecurity training \nof NIO and pass \nthe exam.",
+          "style-type": "blue-ligth-10",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 240,
+        "y": 390,
+        "w": 123,
+        "h": 48
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 815,
+        "h": 437,
+        "scale": { "desc": "缩放比例", "ratio": 0.14 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "9d329b8f-1698-46ca-82c6-9c1f8dac14b7",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "p",
+      "animation": "move",
+      "tweens": {
+        "wait": 12500,
+        "to": [
+          { "p": { "x": 328, "y": 410, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 328, "y": 410, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "4947e090-6598-4cbe-ae0c-58f7e92360bf.png",
+          "type": "img"
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 328,
+        "y": 320,
+        "w": 25,
+        "h": 18
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 815,
+        "h": 437,
+        "scale": { "desc": "缩放比例", "ratio": 0.55 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "9d321b8f-1897-46ca-82c6-9c1f8dac14b7",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "img",
+      "animation": "move",
+      "tweens": {
+        "wait": 15000,
+        "to": [
+          { "p": { "x": 350, "y": 390, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 368, "y": 390, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "Partners must comply \nwith NIO's information \nsecurity regulations \n(such as using NIO's \nequipment for office \nwork, using NIO's \nmailbox and wearing \nbadges).",
+          "style-type": "blue-ligth-10",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 368,
+        "y": 390,
+        "w": 123,
+        "h": 48
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 815,
+        "h": 437,
+        "scale": { "desc": "缩放比例", "ratio": 0.14 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "9d329b8f-1898-49dsa-82c6-9c1f8dac14b7",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "p",
+      "animation": "move",
+      "tweens": {
+        "wait": 15000,
+        "to": [
+          { "p": { "x": 490, "y": 410, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 490, "y": 410, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "4947e090-6598-4cbe-ae0c-58f7e92360bf.png",
+          "type": "img"
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 328,
+        "y": 320,
+        "w": 25,
+        "h": 18
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 815,
+        "h": 437,
+        "scale": { "desc": "缩放比例", "ratio": 0.55 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "9d321b8f-1867-46ca-82c6-9c1f8dac14bp",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "07876682-731a-4828-9e77-e2cbc32536a0",
+      "type": "img",
+      "animation": "move",
+      "tweens": {
+        "wait": 17500,
+        "to": [
+          { "p": { "x": 490, "y": 390, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 515, "y": 390, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "The line manager must submit an \nexit request in Workflow 3 days prior \nto the partner's departure; \nThe line manager must take the \nquarter review of the partner \naccounts seriously and apply for \nrevoking the partner accounts that \nare no longer used in time.",
+          "style-type": "blue-ligth-10",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 515,
+        "y": 390,
+        "w": 123,
+        "h": 48
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 815,
+        "h": 437,
+        "scale": { "desc": "缩放比例", "ratio": 0.14 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    }
+  ],
+  "meta": {
+    "id": "b3f2371e-aac7-4c8b-ab8c-e23926adea61",
+    "texture_id": "661f3c9e-1979-4f41-ad97-0db35d6e0b89",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "c0528635-3142-4313-90a1-a844b9df83e6",
+      "texture_meta_id": "94af692c-fa16-41de-97f7-885663b5335d",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}

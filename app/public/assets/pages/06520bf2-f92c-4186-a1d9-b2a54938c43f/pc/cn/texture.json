@@ -1,0 +1,557 @@
+{
+  "id": "06520bf2-f92c-4186-a1d9-b2a54938c43f",
+  "lang": "cn",
+  "name": null,
+  "type": null,
+  "style": {
+    "padding": "5.85vh 4.5vw",
+    "position": "relative",
+    "overflow": "hidden",
+    "flex": 1
+  },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "content": {
+    "id": "8611f82b-f7d7-4a93-bbba-296973ff809c",
+    "texture_id": "6c49622d-a9bb-498f-b93e-ee6e6e73eb5c",
+    "succeed": 1,
+    "bgcolor": "ffffff",
+    "point": null
+  },
+  "frames": [
+    {
+      "id": "c65b4fed-cd7a-40d4-bf1b-b66e2becb1c1",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "null",
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "信息安全规范",
+          "style-type": "title",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "- 钓鱼攻击",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fontSize": 15,
+            "lineHeight": 1
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 30 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 25,
+        "y": 30
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "f35720d5-a809-4e8f-9c04-66ffedd25a13",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "null",
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "What",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fontSize": 15,
+            "fontWeight": "bold",
+            "fill": "#48BEBE"
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "什么是网络钓鱼？",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fontSize": 15,
+            "fontWeight": "bold"
+          },
+          "type": "txt",
+          "p": { "x": 50, "y": 0 }
+        },
+        {
+          "text": "网络钓鱼是黑客通过多种手段试图引诱个人透露重要信息的\n一种攻击方法，这些手段包括语音，短信，邮件，Wi-Fi等。\n其中最受欢迎的攻击手段是",
+          "style-type": "text",
+          "type": "txt",
+          "p": { "x": 0, "y": 40 }
+        },
+        {
+          "text": "钓鱼邮件。",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fontSize": 12,
+            "fontWeight": "bold"
+          },
+          "type": "txt",
+          "p": { "x": 156, "y": 79.4 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 60,
+        "y": 120
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "38bbc514-20ce-4b99-add5-975ac30fbb0f",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "06520bf2-f92c-4186-a1d9-b2a54938c43f",
+      "animation": "move",
+      "tweens": {
+        "wait": 3000,
+        "to": [
+          { "p": { "x": 60, "y": 310, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 60, "y": 348, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "Why",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fontSize": 15,
+            "fontWeight": "bold",
+            "fill": "#48BEBE"
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "为什么是邮件？",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fontSize": 15,
+            "fontWeight": "bold"
+          },
+          "type": "txt",
+          "p": { "x": 38, "y": 2 }
+        },
+        {
+          "text": "邮件是工作交流中最普遍的方式，对于黑客\n来说也是入侵公司网络最简单的方式。",
+          "style-type": "text",
+          "type": "txt",
+          "p": { "x": 0, "y": 40 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 58,
+        "y": 364
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "e1e3ea91-404f-4999-af9d-7e3e75c31851",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "06520bf2-f92c-4186-a1d9-b2a54938c43f",
+      "animation": "move",
+      "tweens": {
+        "wait": 3000,
+        "to": [
+          { "p": { "x": 125, "y": 200, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 125, "y": 243, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "img",
+      "label": null,
+      "content": [
+        { "url": "76396296-813f-4e91-99c1-48246d6e1df4.png", "type": "img" }
+      ],
+      "flow": {
+        "id": "e38c5402-5f58-4b2c-aa31-2d7b70036ca7",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "681503b6-59c6-4c67-bc5c-2ef828da1607",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "feb16f1e-9e84-4a46-8414-a35c881eeaf4",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 126,
+        "y": 243,
+        "w": 55,
+        "h": 80
+      },
+      "pivot": {
+        "id": "65bde684-53dd-4ed4-ace2-e3d3553ab29d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "ec35648b-c4fe-4344-a56b-ae522364098f",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 136,
+        "h": 136,
+        "scale": { "desc": "缩放比例", "ratio": 0.6 }
+      },
+      "spriteSourceSize": {
+        "id": "b17c99aa-59c0-4a03-8a01-847a33940bd7",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "aa865c5b-7888-4a3d-86be-e5c6e15d10e9",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "06520bf2-f92c-4186-a1d9-b2a54938c43f",
+      "animation": null,
+      "type": "img",
+      "label": null,
+      "content": [
+        { "url": "ca496994-09da-47b2-abc5-8fba5909a6cb.png", "type": "img" }
+      ],
+      "flow": {
+        "id": "e38c5402-5f58-4b2c-aa31-2d7b70036ca7",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "681503b6-59c6-4c67-bc5c-2ef828da1607",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "feb16f1e-9e84-4a46-8414-a35c881eeaf4",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 401,
+        "y": 57,
+        "w": 327,
+        "h": 180
+      },
+      "pivot": {
+        "id": "65bde684-53dd-4ed4-ace2-e3d3553ab29d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "ec35648b-c4fe-4344-a56b-ae522364098f",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 749,
+        "h": 422,
+        "scale": { "desc": "缩放比例", "ratio": 0.5 }
+      },
+      "spriteSourceSize": {
+        "id": "b17c99aa-59c0-4a03-8a01-847a33940bd7",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "a9d41a7c-3143-4c60-a067-fa31046dec06",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "06520bf2-f92c-4186-a1d9-b2a54938c43f",
+      "animation": "move",
+      "tweens": {
+        "wait": 3000,
+        "to": [
+          { "p": { "x": 200, "y": 312, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 200, "y": 330, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "img",
+      "label": null,
+      "content": [
+        { "url": "01905308-25de-4c49-beb9-6e7d7d678a09.png", "type": "img" }
+      ],
+      "flow": {
+        "id": "e38c5402-5f58-4b2c-aa31-2d7b70036ca7",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "681503b6-59c6-4c67-bc5c-2ef828da1607",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "feb16f1e-9e84-4a46-8414-a35c881eeaf4",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 198,
+        "y": 346,
+        "w": 65,
+        "h": 45
+      },
+      "pivot": {
+        "id": "65bde684-53dd-4ed4-ace2-e3d3553ab29d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "ec35648b-c4fe-4344-a56b-ae522364098f",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 112,
+        "h": 112,
+        "scale": { "desc": "缩放比例", "ratio": 0.5 }
+      },
+      "spriteSourceSize": {
+        "id": "b17c99aa-59c0-4a03-8a01-847a33940bd7",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "3e26bcde-b155-417e-ba75-155336eef671",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "06520bf2-f92c-4186-a1d9-b2a54938c43f",
+      "animation": "move",
+      "tweens": {
+        "wait": 8000,
+        "to": [
+          { "p": { "x": 350, "y": 340, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 366, "y": 340, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "img",
+      "label": null,
+      "content": [
+        { "url": "388ff41f-9c30-45f7-a011-6b53fcafcd31.png", "type": "img" }
+      ],
+      "flow": {
+        "id": "e38c5402-5f58-4b2c-aa31-2d7b70036ca7",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "681503b6-59c6-4c67-bc5c-2ef828da1607",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "feb16f1e-9e84-4a46-8414-a35c881eeaf4",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 366,
+        "y": 340,
+        "w": 65,
+        "h": 45
+      },
+      "pivot": {
+        "id": "65bde684-53dd-4ed4-ace2-e3d3553ab29d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "ec35648b-c4fe-4344-a56b-ae522364098f",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 136,
+        "h": 136,
+        "scale": { "desc": "缩放比例", "ratio": 0.6 }
+      },
+      "spriteSourceSize": {
+        "id": "b17c99aa-59c0-4a03-8a01-847a33940bd7",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "c65b4fe8-cd7a-40d4-bf1b-b66e2becb1c1",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "06520bf2-f92c-4186-a1d9-b2a54938c43f",
+      "animation": "move",
+      "tweens": {
+        "wait": 8000,
+        "to": [
+          { "p": { "x": 450, "y": 348, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 475, "y": 348, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "How",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fontSize": 15,
+            "fontWeight": "bold",
+            "fill": "#48BEBE"
+          },
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "如何通过邮件进行攻击？",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Regular",
+            "fontSize": 15,
+            "fontWeight": "bold"
+          },
+          "type": "txt",
+          "p": { "x": 38, "y": 2 }
+        },
+        {
+          "text": "攻击者通过钓鱼邮件渗入公司网络开展攻击\n行为，这些恶意邮件通常附带包含恶意程序\n的附件和链接。",
+          "style-type": "text",
+          "type": "txt",
+          "p": { "x": 0, "y": 40 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 475,
+        "y": 348
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    }
+  ],
+  "meta": {
+    "id": "09fab99e-1af9-4ac9-8bb8-9569e647cef3",
+    "texture_id": "fa1a5c6a-e4f9-41bf-96b5-74de8cd70e0c",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "882b90f7-7acf-43f2-8cdf-f3a280e677f2",
+      "texture_meta_id": "b6d0eb84-2b80-44b2-a555-660781be4aee",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}

@@ -1,0 +1,416 @@
+{
+  "id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+  "lang": null,
+  "name": null,
+  "type": null,
+  "style": { "flex": 1, "padding": "7.5vh 5.4vw", "overflow": "hidden" },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "content": {
+    "id": "4b505c5c-7d59-4088-88a4-5c2c434a96ed",
+    "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+    "succeed": 1,
+    "bgcolor": "ffffff",
+    "point": null
+  },
+  "frames": [
+    {
+      "id": "ae59a1f7-76bc-4ff7-be81-fde7010dc109",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+      "type": "p",
+      "style": {
+        "fontSize": 35,
+        "paddingBottom": "1.9vh",
+        "fontFamily": "Blue Sky Noto-Regular",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "fontsize": 24,
+      "content": [
+        {
+          "text": "2020年成为有史以来数据泄露最严重的一年",
+          "style-type": "title",
+          "p": { "x": 0, "y": 0 },
+          "type": "txt"
+        }
+      ],
+      "flow": {
+        "id": "8b45cfd3-c0e0-4cd1-b5af-0e8d3ba40bc2",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "type": "Flow",
+        "target_id": "a10c0d79-94c1-41cb-b42a-dab5686eb468",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "fdc69fe1-3c78-4f23-abfa-98cdcf0b8cf5",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 30,
+        "y": 30
+      },
+      "pivot": {
+        "id": "96e7458b-654c-4e3a-b8dc-0123026952e5",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "68a5f9a8-35b9-49df-82bf-f05ae73686f5",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "000845e8-44d6-4594-ad12-2a6eee21c0ca",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "b6c2abf8-a389-4669-a9fd-471d00535945",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "fontSize": "3vh",
+        "paddingTop": "1.9vh",
+        "fontFamily": "Blue Sky Noto-Light",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "回顾2020年，大规模的数据泄露事件频频发生，呈现爆发递增的趋势。",
+          "style-type": "text",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "370ab92f-3487-49d7-ab48-e78622e34452",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "type": "Flow",
+        "target_id": "8564f323-ac38-443d-868b-b219e9cb59c5",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "bb33b2db-3741-465d-94e0-dff2577ba838",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 30,
+        "y": 90
+      },
+      "pivot": {
+        "id": "33aa5d9c-123f-451a-92b0-04a36cf10db5",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "d9f48be9-8d90-4632-a21b-c85af53dc506",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "ab97bec9-330e-48d5-a197-75ce7ed21ecc",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "4f1c30a5-94ac-438b-a6d4-488cc5ce55a8",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+      "animation": null,
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "2020年，泄露的数据量达到了",
+          "style-type": "text",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "360亿条",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#48BEBE"
+          },
+          "type": "txt",
+          "p": { "x": 175, "y": -5 }
+        },
+        {
+          "text": "________",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#48BEBE"
+          },
+          "type": "txt",
+          "p": { "x": 175, "y": -1 }
+        },
+        {
+          "text": "记录，数据泄露事件给企业造成的平均损失高达",
+          "style-type": "text",
+          "type": "txt",
+          "p": { "x": 235, "y": 0 }
+        },
+        {
+          "text": "386万",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#48BEBE"
+          },
+          "p": { "x": 510, "y": -5 }
+        },
+        {
+          "text": "______",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#48BEBE"
+          },
+          "p": { "x": 510, "y": -1 }
+        },
+        {
+          "text": "美元",
+          "style-type": "text",
+          "type": "txt",
+          "p": { "x": 555, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "31acdb16-2ab0-4fc6-b612-54b01d26f516",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "type": "Flow",
+        "target_id": "8AD8B992-DCCD-4FB3-9A3D-1742DDFF9017",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "4576bbef-d6df-4829-bd3b-34ddd9ad1f76",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 30,
+        "y": 130
+      },
+      "pivot": {
+        "id": "05d433db-05cb-447a-bf16-c14bfd4b09ae",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "82adf49c-9c87-4da6-b8ac-e161fdd35862",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "54a0efbe-d5e0-4ffd-8d4c-a0ce0d18b1ae",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "ccc0fb66-97d3-4bf5-aecb-d7f4e9ae4eec",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+      "animation": null,
+      "style": {
+        "fontSize": "3vh",
+        "paddingTop": "1.9vh",
+        "fontFamily": "Blue Sky Noto-Light",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "数据泄露一方面给受害企业带来直接和间接的经济损失（巨额的罚款（如GDPR）、事后处理成本和名誉损失恢复成本）；",
+          "style-type": "text",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "1adc64d3-cc01-4829-a382-a41b36488c36",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "type": "Flow",
+        "target_id": "871989ee-851c-4657-9d21-7d1cdfda78a3",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "d55d2c46-c088-46c7-9971-fb8a26d9e966",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 30,
+        "y": 160
+      },
+      "pivot": {
+        "id": "41190695-7cd3-46c0-a61c-0568206e04aa",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "7cd44eb8-b5c8-4f6b-93c6-8d1a25862c9b",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "c3dc02b4-59b5-47c2-b3ff-392e52335155",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "227fbcd1-ff49-408f-b420-e278fc56bb50",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+      "animation": null,
+      "style": {
+        "fontSize": "3vh",
+        "paddingTop": "1.9vh",
+        "fontFamily": "Blue Sky Noto-Light",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "另一方面发生的大规模数据泄露事件中绝大部分包括个人信息，这给涉及的用户个人带来了潜在的危害。",
+          "style-type": "text",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "da9f53ba-212d-4a85-8103-82f67c9e3859",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "type": "Flow",
+        "target_id": "1dc24b8b-a84d-472b-8527-a282e22e5125",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "b81ccfed-aeb5-4982-9199-2421184dfd5b",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 30,
+        "y": 190
+      },
+      "pivot": {
+        "id": "dfa27645-ed4c-4b82-ad49-29b724489ebe",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "0f44e6f1-eb8f-4510-a3c1-75b8c066a4ad",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "5fef561f-639f-4e04-be5b-0bdcf17c9095",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "d5513c4e-2d89-4d87-962b-b2789b6a88e0",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+      "animation": null,
+      "style": {
+        "display": "block",
+        "width": "63vw",
+        "height": "43vh",
+        "animation": "slideInLeft 0.25s ease both",
+        "margin": "2vh auto 0 auto"
+      },
+      "label": null,
+      "type": "img",
+      "content": [
+        { "url": "92800628-db18-40a5-a8aa-03aac8f93dc5.png", "type": "img" }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "42cb3d3e-c486-4dd4-9435-a6f043bb9a01",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 150,
+        "y": 230,
+        "w": 800,
+        "h": 341,
+        "point": null
+      },
+      "pivot": {
+        "id": "44cb8c03-363e-4a02-8207-d73f2ffad465",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "8e82b0a2-c691-4f0d-b4fa-a9033144c0a0",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "w": 980,
+        "h": 418,
+        "scale": { "desc": "缩放比例", "ratio": 0.6 }
+      },
+      "spriteSourceSize": {
+        "id": "c480c6a6-6641-4dca-a6df-6b61d35f1b5c",
+        "texture_frames_id": "02e970d6-793b-4bc5-90fb-da93463b7df3",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    }
+  ],
+  "meta": {
+    "id": "bc614b73-7118-44a4-8999-b1a22c8cc16e",
+    "texture_id": "0c75b4e4-fc50-4fbb-af58-a3ab53e50f87",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "d234ce08-646d-454e-83cb-6e3f8c495c5a",
+      "texture_meta_id": "dfc0819c-dc75-4757-8691-10de6f58b8c3",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}

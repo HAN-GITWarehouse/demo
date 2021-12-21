@@ -1,0 +1,88 @@
+{
+  "id": "f27961a1-8b42-42ad-a55a-91adb1c8aa96",
+  "lang": null,
+  "name": null,
+  "type": null,
+  "style": {
+    "flex": "1",
+    "display": "flex",
+    "backgroundColor": "#fff",
+    "overflow": "hidden",
+    "justify-content": "center"
+  },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "content": {
+    "id": "271d27ca-dc03-4628-b95a-5f926ab280c4",
+    "texture_id": "f27961a1-8b42-42ad-a55a-91adb1c8aa96",
+    "succeed": 1,
+    "bgcolor": "#00243c",
+    "point": null
+  },
+  "frames": [
+    {
+      "id": "40026b36-96cd-4397-a215-00bb1a543bb0",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "f27961a1-8b42-42ad-a55a-91adb1c8aa96",
+      "animation": null,
+      "type": "img",
+      "style": { "height": "100vh", "opacity": 1 },
+      "label": null,
+      "content": "06a6bada-eefc-493f-9fa0-65a770960234.gif",
+      "flow": {
+        "id": "94eadf56-2800-4e42-9cc3-996ccbf03eb6",
+        "texture_frames_id": "f27961a1-8b42-42ad-a55a-91adb1c8aa96",
+        "type": "Flow",
+        "target_id": "6dd0a84f-75c9-4c70-a255-057b9692d4c7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "f5ccf9cf-6a6a-4885-9291-9126b29c75e0",
+        "texture_frames_id": "f27961a1-8b42-42ad-a55a-91adb1c8aa96",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "d75f4a71-28db-4dec-9748-2e2bbf4a111d",
+        "texture_frames_id": "f27961a1-8b42-42ad-a55a-91adb1c8aa96",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "4b259827-a3e9-44d8-8270-ecb57d9a5f53",
+        "texture_frames_id": "f27961a1-8b42-42ad-a55a-91adb1c8aa96",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "880bb40e-fbbe-44d7-a3ce-1825daf3af88",
+        "texture_frames_id": "f27961a1-8b42-42ad-a55a-91adb1c8aa96",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    }
+  ],
+  "meta": {
+    "id": "16c2f5f4-afa3-4b9f-a565-65a06cbf3ef8",
+    "texture_id": "4566b717-1ed1-4a7a-9c28-ee4bf3a0453f",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "22ff79ab-d6fe-463d-ab4a-eaeb6d26b0af",
+      "texture_meta_id": "dfc0819c-dc75-4757-8691-10de6f58b8c3",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}

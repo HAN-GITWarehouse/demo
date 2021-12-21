@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+    xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+    xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+    <p:cSld>
+        <p:spTree>
+            <p:nvGrpSpPr>
+                <p:cNvPr id="1" name=""/>
+                <p:cNvGrpSpPr/>
+                <p:nvPr/>
+            </p:nvGrpSpPr>
+            <p:grpSpPr>
+                <a:xfrm>
+                    <a:off x="0" y="0"/>
+                    <a:ext cx="0" cy="0"/>
+                    <a:chOff x="0" y="0"/>
+                    <a:chExt cx="0" cy="0"/>
+                </a:xfrm>
+            </p:grpSpPr>
+            <p:grpSp>
+                <p:nvGrpSpPr>
+                    <p:cNvPr id="5" name="Group 4"/>
+                    <p:cNvGrpSpPr/>
+                    <p:nvPr/>
+                </p:nvGrpSpPr>
+                <p:grpSpPr>
+                    <a:xfrm>
+                        <a:off x="1095710" y="1913063"/>
+                        <a:ext cx="2703802" cy="381001"/>
+                        <a:chOff x="1862079" y="3236900"/>
+                        <a:chExt cx="3605069" cy="508001"/>
+                    </a:xfrm>
+                </p:grpSpPr>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="14" name="2"/>
+                        <p:cNvSpPr/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="1862079" y="3236900"/>
+                            <a:ext cx="508001" cy="508001"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="ellipse">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:solidFill>
+                            <a:srgbClr val="B7E8EA"/>
+                        </a:solidFill>
+                        <a:ln w="12700">
+                            <a:miter lim="400000"/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr"/>
+                        <a:lstStyle>
+                            <a:lvl1pPr algn="ctr">
+                                <a:defRPr sz="3200">
+                                    <a:latin typeface="Blue Sky Standard Regular"/>
+                                    <a:ea typeface="Blue Sky Standard Regular"/>
+                                    <a:cs typeface="Blue Sky Standard Regular"/>
+                                    <a:sym typeface="Blue Sky Standard Regular"/>
+                                </a:defRPr>
+                            </a:lvl1pPr>
+                        </a:lstStyle>
+                        <a:p>
+                            <a:pPr defTabSz="309245" hangingPunct="0">
+                                <a:defRPr/>
+                            </a:pPr>
+                            <a:endParaRPr sz="1800" b="1" kern="0" dirty="0">
+                                <a:solidFill>
+                                    <a:srgbClr val="004B64"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:cs typeface="Arial Unicode MS" panose="020B0604020202020204" pitchFamily="34" charset="-122"/>
+                            </a:endParaRPr>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+                <p:sp>
+                    <p:nvSpPr>
+                        <p:cNvPr id="15" name="高度机密信息资产的管控措施"/>
+                        <p:cNvSpPr txBox="1"/>
+                        <p:nvPr/>
+                    </p:nvSpPr>
+                    <p:spPr>
+                        <a:xfrm>
+                            <a:off x="2598534" y="3302428"/>
+                            <a:ext cx="2868614" cy="420628"/>
+                        </a:xfrm>
+                        <a:prstGeom prst="rect">
+                            <a:avLst/>
+                        </a:prstGeom>
+                        <a:ln w="12700">
+                            <a:miter lim="400000"/>
+                        </a:ln>
+                    </p:spPr>
+                    <p:txBody>
+                        <a:bodyPr wrap="square" lIns="19050" tIns="19050" rIns="19050" bIns="19050" anchor="ctr">
+                            <a:spAutoFit/>
+                        </a:bodyPr>
+                        <a:lstStyle/>
+                        <a:p>
+                            <a:pPr defTabSz="309245" hangingPunct="0">
+                                <a:defRPr/>
+                            </a:pPr>
+                            <a:r>
+                                <a:rPr lang="zh-CN" altLang="en-US" sz="1800" kern="0" dirty="0">
+                                    <a:solidFill>
+                                        <a:schemeClr val="bg1"/>
+                                    </a:solidFill>
+                                    <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                    <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                                    <a:sym typeface="Noto Sans CJK SC Light"/>
+                                </a:rPr>
+                                <a:t>信息安全规范</a:t>
+                            </a:r>
+                            <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1800" kern="0" dirty="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                                <a:sym typeface="Noto Sans CJK SC Light"/>
+                            </a:endParaRPr>
+                        </a:p>
+                    </p:txBody>
+                </p:sp>
+            </p:grpSp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="17" name="1"/>
+                    <p:cNvSpPr/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="1095710" y="1094690"/>
+                        <a:ext cx="381001" cy="381001"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="ellipse">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:solidFill>
+                        <a:srgbClr val="B7E8EA"/>
+                    </a:solidFill>
+                    <a:ln w="12700">
+                        <a:miter lim="400000"/>
+                    </a:ln>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr lIns="0" tIns="0" rIns="0" bIns="0" anchor="ctr"/>
+                    <a:lstStyle>
+                        <a:lvl1pPr algn="ctr">
+                            <a:defRPr sz="3200">
+                                <a:latin typeface="Blue Sky Standard Regular"/>
+                                <a:ea typeface="Blue Sky Standard Regular"/>
+                                <a:cs typeface="Blue Sky Standard Regular"/>
+                                <a:sym typeface="Blue Sky Standard Regular"/>
+                            </a:defRPr>
+                        </a:lvl1pPr>
+                    </a:lstStyle>
+                    <a:p>
+                        <a:pPr defTabSz="309245" hangingPunct="0">
+                            <a:defRPr/>
+                        </a:pPr>
+                        <a:endParaRPr lang="en-US" altLang="zh-CN" sz="1800" b="1" kern="0" dirty="0">
+                            <a:solidFill>
+                                <a:srgbClr val="004B64"/>
+                            </a:solidFill>
+                            <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            <a:cs typeface="Arial Unicode MS" panose="020B0604020202020204" pitchFamily="34" charset="-122"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="18" name="高度机密信息资产的管控措施"/>
+                    <p:cNvSpPr txBox="1"/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="1649972" y="1143836"/>
+                        <a:ext cx="2054925" cy="315471"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:ln w="12700">
+                        <a:miter lim="400000"/>
+                    </a:ln>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr wrap="square" lIns="19050" tIns="19050" rIns="19050" bIns="19050" anchor="ctr">
+                        <a:spAutoFit/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:pPr defTabSz="309245" hangingPunct="0">
+                            <a:defRPr/>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="zh-CN" altLang="en-US" sz="1800" kern="0" dirty="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                                <a:sym typeface="Noto Sans CJK SC Light"/>
+                            </a:rPr>
+                            <a:t>信息安全的概念</a:t>
+                        </a:r>
+                        <a:endParaRPr sz="1800" kern="0" dirty="0">
+                            <a:solidFill>
+                                <a:schemeClr val="bg1"/>
+                            </a:solidFill>
+                            <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            <a:sym typeface="Noto Sans CJK SC Light"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="25" name="任意多边形: 形状 5"/>
+                    <p:cNvSpPr/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr bwMode="auto">
+                    <a:xfrm>
+                        <a:off x="3929304" y="1075404"/>
+                        <a:ext cx="5214697" cy="4097126"/>
+                    </a:xfrm>
+                    <a:custGeom>
+                        <a:avLst/>
+                        <a:gdLst>
+                            <a:gd name="connsiteX0" fmla="*/ 4807527 w 4807527"/>
+                            <a:gd name="connsiteY0" fmla="*/ 0 h 3532909"/>
+                            <a:gd name="connsiteX1" fmla="*/ 4793673 w 4807527"/>
+                            <a:gd name="connsiteY1" fmla="*/ 3532909 h 3532909"/>
+                            <a:gd name="connsiteX2" fmla="*/ 0 w 4807527"/>
+                            <a:gd name="connsiteY2" fmla="*/ 3519055 h 3532909"/>
+                            <a:gd name="connsiteX3" fmla="*/ 2327563 w 4807527"/>
+                            <a:gd name="connsiteY3" fmla="*/ 27709 h 3532909"/>
+                            <a:gd name="connsiteX4" fmla="*/ 4807527 w 4807527"/>
+                            <a:gd name="connsiteY4" fmla="*/ 0 h 3532909"/>
+                        </a:gdLst>
+                        <a:ahLst/>
+                        <a:cxnLst>
+                            <a:cxn ang="0">
+                                <a:pos x="connsiteX0" y="connsiteY0"/>
+                            </a:cxn>
+                            <a:cxn ang="0">
+                                <a:pos x="connsiteX1" y="connsiteY1"/>
+                            </a:cxn>
+                            <a:cxn ang="0">
+                                <a:pos x="connsiteX2" y="connsiteY2"/>
+                            </a:cxn>
+                            <a:cxn ang="0">
+                                <a:pos x="connsiteX3" y="connsiteY3"/>
+                            </a:cxn>
+                            <a:cxn ang="0">
+                                <a:pos x="connsiteX4" y="connsiteY4"/>
+                            </a:cxn>
+                        </a:cxnLst>
+                        <a:rect l="l" t="t" r="r" b="b"/>
+                        <a:pathLst>
+                            <a:path w="4807527" h="3532909">
+                                <a:moveTo>
+                                    <a:pt x="4807527" y="0"/>
+                                </a:moveTo>
+                                <a:lnTo>
+                                    <a:pt x="4793673" y="3532909"/>
+                                </a:lnTo>
+                                <a:lnTo>
+                                    <a:pt x="0" y="3519055"/>
+                                </a:lnTo>
+                                <a:lnTo>
+                                    <a:pt x="2327563" y="27709"/>
+                                </a:lnTo>
+                                <a:lnTo>
+                                    <a:pt x="4807527" y="0"/>
+                                </a:lnTo>
+                                <a:close/>
+                            </a:path>
+                        </a:pathLst>
+                    </a:custGeom>
+                    <a:blipFill>
+                        <a:blip r:embed="rId1" cstate="screen"/>
+                        <a:stretch>
+                            <a:fillRect/>
+                        </a:stretch>
+                    </a:blipFill>
+                    <a:ln w="9525" cap="flat" cmpd="sng" algn="ctr">
+                        <a:noFill/>
+                        <a:prstDash val="solid"/>
+                        <a:round/>
+                        <a:headEnd type="none" w="med" len="med"/>
+                        <a:tailEnd type="none" w="med" len="med"/>
+                    </a:ln>
+                    <a:effectLst/>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr rot="0" spcFirstLastPara="0" vertOverflow="overflow" horzOverflow="overflow" vert="horz" wrap="square" lIns="51435" tIns="25718" rIns="51435" bIns="25718" numCol="1" spcCol="0" rtlCol="0" fromWordArt="0" anchor="t" anchorCtr="0" forceAA="0" compatLnSpc="1">
+                        <a:noAutofit/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:pPr defTabSz="514350" fontAlgn="base">
+                            <a:spcBef>
+                                <a:spcPct val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPct val="0"/>
+                            </a:spcAft>
+                        </a:pPr>
+                        <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1015">
+                            <a:latin typeface="Arial" panose="020B0604020202090204" pitchFamily="34" charset="0"/>
+                            <a:ea typeface="宋体" panose="02010600030101010101" pitchFamily="2" charset="-122"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="7" name="文本框 6"/>
+                    <p:cNvSpPr txBox="1"/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="1696318" y="1583258"/>
+                        <a:ext cx="2054925" cy="184666"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0">
+                        <a:spAutoFit/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:pPr>
+                            <a:buClr>
+                                <a:schemeClr val="accent1"/>
+                            </a:buClr>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="en-US" altLang="zh-CN" sz="1200" dirty="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            </a:rPr>
+                            <a:t>- </a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="zh-CN" altLang="en-US" sz="1200" dirty="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            </a:rPr>
+                            <a:t>信息、信息资产与信息安全</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="zh-CN" altLang="en-US" sz="1200" dirty="0">
+                            <a:solidFill>
+                                <a:schemeClr val="bg1"/>
+                            </a:solidFill>
+                            <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="8" name="文本框 7"/>
+                    <p:cNvSpPr txBox="1"/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="1696318" y="2392764"/>
+                        <a:ext cx="3120048" cy="1661993"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr wrap="square" lIns="0" tIns="0" rIns="0" bIns="0" rtlCol="0">
+                        <a:spAutoFit/>
+                    </a:bodyPr>
+                    <a:lstStyle>
+                        <a:defPPr>
+                            <a:defRPr lang="de-DE"/>
+                        </a:defPPr>
+                        <a:lvl1pPr>
+                            <a:buClr>
+                                <a:schemeClr val="accent1"/>
+                            </a:buClr>
+                            <a:defRPr sz="1200">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="微软雅黑" panose="020B0503020204020204" pitchFamily="34" charset="-122"/>
+                            </a:defRPr>
+                        </a:lvl1pPr>
+                    </a:lstStyle>
+                    <a:p>
+                        <a:pPr>
+                            <a:lnSpc>
+                                <a:spcPct val="150000"/>
+                            </a:lnSpc>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="en-US" altLang="zh-CN" dirty="0">
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            </a:rPr>
+                            <a:t>- </a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="zh-CN" altLang="en-US" dirty="0">
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            </a:rPr>
+                            <a:t>终端安全及数据安全</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="en-US" altLang="zh-CN" dirty="0">
+                            <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                        </a:endParaRPr>
+                    </a:p>
+                    <a:p>
+                        <a:pPr>
+                            <a:lnSpc>
+                                <a:spcPct val="150000"/>
+                            </a:lnSpc>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="en-US" altLang="zh-CN" dirty="0">
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            </a:rPr>
+                            <a:t>- </a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="zh-CN" altLang="en-US" dirty="0">
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            </a:rPr>
+                            <a:t>个人信息保护</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="en-US" altLang="zh-CN" dirty="0">
+                            <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                        </a:endParaRPr>
+                    </a:p>
+                    <a:p>
+                        <a:pPr>
+                            <a:lnSpc>
+                                <a:spcPct val="150000"/>
+                            </a:lnSpc>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="en-US" altLang="zh-CN" dirty="0">
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            </a:rPr>
+                            <a:t>- </a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="zh-CN" altLang="en-US" dirty="0">
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            </a:rPr>
+                            <a:t>钓鱼攻击</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="en-US" altLang="zh-CN" dirty="0">
+                            <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                        </a:endParaRPr>
+                    </a:p>
+                    <a:p>
+                        <a:pPr>
+                            <a:lnSpc>
+                                <a:spcPct val="150000"/>
+                            </a:lnSpc>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="en-US" altLang="zh-CN" dirty="0">
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            </a:rPr>
+                            <a:t>- </a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="zh-CN" altLang="en-US" dirty="0">
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            </a:rPr>
+                            <a:t>合作伙伴安全管理</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="en-US" altLang="zh-CN" dirty="0">
+                            <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                        </a:endParaRPr>
+                    </a:p>
+                    <a:p>
+                        <a:pPr>
+                            <a:lnSpc>
+                                <a:spcPct val="150000"/>
+                            </a:lnSpc>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="en-US" altLang="zh-CN" dirty="0">
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            </a:rPr>
+                            <a:t>- </a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="zh-CN" altLang="en-US" dirty="0">
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            </a:rPr>
+                            <a:t>物理安全控制</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="zh-CN" altLang="en-US" dirty="0">
+                            <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                        </a:endParaRPr>
+                    </a:p>
+                    <a:p>
+                        <a:pPr>
+                            <a:lnSpc>
+                                <a:spcPct val="150000"/>
+                            </a:lnSpc>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="en-US" altLang="zh-CN" dirty="0">
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            </a:rPr>
+                            <a:t>- </a:t>
+                        </a:r>
+                        <a:r>
+                            <a:rPr lang="zh-CN" altLang="en-US" dirty="0">
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            </a:rPr>
+                            <a:t>信息安全事件报告义务</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="zh-CN" altLang="en-US" dirty="0">
+                            <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="2" name="矩形 1"/>
+                    <p:cNvSpPr/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="1142163" y="1071780"/>
+                        <a:ext cx="288862" cy="369332"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr wrap="none">
+                        <a:spAutoFit/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:pPr defTabSz="309245" hangingPunct="0">
+                            <a:defRPr/>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="en-US" altLang="zh-CN" sz="1800" b="1" kern="0" dirty="0">
+                                <a:solidFill>
+                                    <a:srgbClr val="004B64"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                                <a:cs typeface="Arial Unicode MS" panose="020B0604020202020204" pitchFamily="34" charset="-122"/>
+                            </a:rPr>
+                            <a:t>1</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="en-US" altLang="zh-CN" sz="1800" b="1" kern="0" dirty="0">
+                            <a:solidFill>
+                                <a:srgbClr val="004B64"/>
+                            </a:solidFill>
+                            <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            <a:cs typeface="Arial Unicode MS" panose="020B0604020202020204" pitchFamily="34" charset="-122"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="11" name="矩形 10"/>
+                    <p:cNvSpPr/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="1126923" y="1891843"/>
+                        <a:ext cx="317716" cy="369332"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr wrap="none">
+                        <a:spAutoFit/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:pPr defTabSz="309245" hangingPunct="0">
+                            <a:defRPr/>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="en-US" altLang="zh-CN" sz="1800" b="1" kern="0" dirty="0" smtClean="0">
+                                <a:solidFill>
+                                    <a:srgbClr val="004B64"/>
+                                </a:solidFill>
+                                <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                                <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                                <a:cs typeface="Arial Unicode MS" panose="020B0604020202020204" pitchFamily="34" charset="-122"/>
+                            </a:rPr>
+                            <a:t>2</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="en-US" altLang="zh-CN" sz="1800" b="1" kern="0" dirty="0">
+                            <a:solidFill>
+                                <a:srgbClr val="004B64"/>
+                            </a:solidFill>
+                            <a:latin typeface="Blue Sky Noto Regular" panose="020B0500000000000000" pitchFamily="34" charset="-122"/>
+                            <a:ea typeface="Blue Sky Noto Light" panose="020B0800000000000000"/>
+                            <a:cs typeface="Arial Unicode MS" panose="020B0604020202020204" pitchFamily="34" charset="-122"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+        </p:spTree>
+    </p:cSld>
+    <p:clrMapOvr>
+        <a:masterClrMapping/>
+    </p:clrMapOvr>
+    <p:timing>
+        <p:tnLst>
+            <p:par>
+                <p:cTn id="1" dur="indefinite" restart="never" nodeType="tmRoot"/>
+            </p:par>
+        </p:tnLst>
+    </p:timing>
+</p:sld>

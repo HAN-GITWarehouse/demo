@@ -1,0 +1,1090 @@
+{
+  "id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+  "lang": "en",
+  "name": null,
+  "type": null,
+  "style": {
+    "flex": "1",
+    "background": "#fff",
+    "position": "relative",
+    "overflow": "hidden"
+  },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "content": {
+    "id": "7dd9c7d5-7259-4461-ab14-75e034c76549",
+    "texture_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+    "succeed": 1,
+    "bgcolor": "ffffff",
+    "point": null
+  },
+  "frames": [
+    {
+      "id": "c65b4fed-cd7a-40d4-bf1b-b66e2becb1c1",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "null",
+      "label": null,
+      "content": [
+        {
+          "text": "Information Security Specification",
+          "style-type": "title-en",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "- Endpoint Security and Data Security",
+          "style": { "fontFamily": "Blue Sky Noto-Light", "fontSize": 15 },
+          "type": "txt",
+          "p": { "x": 0, "y": 35 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 85,
+        "y": 30
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "8c18b9ef-0606-43e5-9445-a159bae1f097",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": null,
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "Data is a core asset of an enterprise. Data leakage will have a negative impact on the enterprise, \nresulting in damage to the company's reputation, declining competitive advantage, decreasing \ncustomer trust, and compliance risks.",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12.5,
+            "lineHeight": 18
+          },
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 85,
+        "y": 111,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "385bc593-565d-4147-9dd5-245513d3b485",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": null,
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "img",
+      "content": [
+        { "type": "img", "url": "c6a987e4-4944-4804-823b-e6711a7b8a87.png" }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 685,
+        "y": 94,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": 361,
+        "h": 466,
+        "scale": { "desc": "缩放比例", "ratio": 0.15 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "385bc593-565d-4147-9dd5-245513d3b486",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": null,
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "img",
+      "content": [
+        { "type": "img", "url": "c5b9214f-9fc0-45cf-a9be-dab9ac8955ca.png" }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 84,
+        "y": 166,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": 1312,
+        "h": 75,
+        "scale": { "desc": "缩放比例", "ratio": 0.5 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "8c18b9ef-0606-43e5-9445-a159bae1f098",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": null,
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "To protect data security, we should keep in mind that",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#FFFFFF"
+          },
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 113,
+        "y": 170,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "f2c28b0c-ab30-4cb4-b816-7b1d9f1053d5",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": {
+        "wait": 5000,
+        "to": [
+          { "p": { "x": 90, "y": 220, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 90, "y": 220, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "·",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "fill": "#48BEBE",
+            "fontWeight": "bold"
+          },
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        },
+        {
+          "text": "Do not upload NIO data to non-company network cloud, such as Baidu Cloud, 360 Cloud, etc.;",
+          "style": { "fontFamily": "Blue Sky Noto-Light", "fontSize": 10 },
+          "type": "txt",
+          "p": { "x": 20, "y": 2 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 30,
+        "y": 220,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "8c18b9ef-0606-43e5-9445-a159bae1f030",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": {
+        "wait": 8000,
+        "to": [
+          { "p": { "x": 90, "y": 245, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 90, "y": 245, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "·",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "fill": "#48BEBE",
+            "fontWeight": "bold"
+          },
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        },
+        {
+          "text": "Do not use instant messaging tools (e.g. WeChat, QQ) that are not authorized to transfer NIO data;",
+          "style": { "fontFamily": "Blue Sky Noto-Light", "fontSize": 10 },
+          "type": "txt",
+          "p": { "x": 20, "y": 2 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 30,
+        "y": 245,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "9d0db05d-3c20-4b6a-ba58-e95a55dfb395",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": {
+        "wait": 11000,
+        "to": [
+          { "p": { "x": 90, "y": 270, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 90, "y": 270, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "·",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "fill": "#48BEBE",
+            "fontWeight": "bold"
+          },
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        },
+        {
+          "text": "Do not transfer NIO data with personal mobile devices, including PCs, tablets, mobile phones, USB flash disks, hard drives, etc.;",
+          "style": { "fontFamily": "Blue Sky Noto-Light", "fontSize": 10 },
+          "type": "txt",
+          "p": { "x": 20, "y": 2 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 30,
+        "y": 270,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "2a813d8b-4b15-49a6-81a5-a30b67f825db",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": {
+        "wait": 14000,
+        "to": [
+          { "p": { "x": 90, "y": 295, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 90, "y": 295, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "·",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "fill": "#48BEBE",
+            "fontWeight": "bold"
+          },
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        },
+        {
+          "text": "Do not use personal computers for work;",
+          "style": { "fontFamily": "Blue Sky Noto-Light", "fontSize": 10 },
+          "type": "txt",
+          "p": { "x": 20, "y": 2 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 30,
+        "y": 295,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "3ce1d264-72d6-4f0f-b61f-83cdbaefc666",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": {
+        "wait": 17000,
+        "to": [
+          { "p": { "x": 90, "y": 320, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 90, "y": 320, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "·",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "fill": "#48BEBE",
+            "fontWeight": "bold"
+          },
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        },
+        {
+          "text": "Do not use a private email account to process NIO data;",
+          "style": { "fontFamily": "Blue Sky Noto-Light", "fontSize": 10 },
+          "type": "txt",
+          "p": { "x": 20, "y": 2 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 30,
+        "y": 320,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "860ed67a-214b-4525-b26a-3e7671208d3f",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": {
+        "wait": 20000,
+        "to": [
+          { "p": { "x": 90, "y": 345, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 90, "y": 345, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "·",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "fill": "#48BEBE",
+            "fontWeight": "bold"
+          },
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        },
+        {
+          "text": "Do not upload company code to any public code-hosting platform (not limited to GitHub);",
+          "style": { "fontFamily": "Blue Sky Noto-Light", "fontSize": 10 },
+          "type": "txt",
+          "p": { "x": 20, "y": 2 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 30,
+        "y": 345,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "f26c7a5a-c311-4b13-8097-1caf182a8e68",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": {
+        "wait": 23000,
+        "to": [
+          { "p": { "x": 90, "y": 370, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 90, "y": 370, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "·",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "fill": "#48BEBE",
+            "fontWeight": "bold"
+          },
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        },
+        {
+          "text": "Timely pick up the scanned or printed documents;",
+          "style": { "fontFamily": "Blue Sky Noto-Light", "fontSize": 10 },
+          "type": "txt",
+          "p": { "x": 20, "y": 2 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 30,
+        "y": 370,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "03b81dc9-45d0-440a-bc14-0835633ebb09",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": {
+        "wait": 36000,
+        "to": [
+          { "p": { "x": 90, "y": 395, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 90, "y": 395, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "·",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "fill": "#48BEBE",
+            "fontWeight": "bold"
+          },
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        },
+        {
+          "text": "Use shredders to destroy paper documents;",
+          "style": { "fontFamily": "Blue Sky Noto-Light", "fontSize": 10 },
+          "type": "txt",
+          "p": { "x": 20, "y": 2 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 30,
+        "y": 395,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "f22996fa-ad90-4586-a4e6-d60951ec49a5",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": {
+        "wait": 39000,
+        "to": [
+          { "p": { "x": 90, "y": 420, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 90, "y": 420, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "·",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "fill": "#48BEBE",
+            "fontWeight": "bold"
+          },
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        },
+        {
+          "text": "Timely disconnect the screen sharing, clean the whiteboard, and take away related documents after the meeting;",
+          "style": { "fontFamily": "Blue Sky Noto-Light", "fontSize": 10 },
+          "type": "txt",
+          "p": { "x": 20, "y": 2 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 30,
+        "y": 420,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "35f981bb-c682-49b6-903f-ade56de14a85",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": {
+        "wait": 42000,
+        "to": [
+          { "p": { "x": 90, "y": 445, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 90, "y": 445, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "·",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "fill": "#48BEBE",
+            "fontWeight": "bold"
+          },
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        },
+        {
+          "text": "Do not discuss internal company information in public areas, such as elevators, dining halls, cafes, etc.;",
+          "style": { "fontFamily": "Blue Sky Noto-Light", "fontSize": 10 },
+          "type": "txt",
+          "p": { "x": 20, "y": 2 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 30,
+        "y": 445,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "8c18b9ef-0606-43e5-9445-a159bae1f052",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "053252ee-8d79-4965-bf48-4cac9dd2fe5c",
+      "animation": null,
+      "tweens": {
+        "wait": 45000,
+        "to": [
+          { "p": { "x": 90, "y": 470, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 90, "y": 470, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "·",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "fill": "#48BEBE",
+            "fontWeight": "bold"
+          },
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        },
+        {
+          "text": "Do not take away NIO information when you leave the company, including code, project documents, etc.",
+          "style": { "fontFamily": "Blue Sky Noto-Light", "fontSize": 10 },
+          "type": "txt",
+          "p": { "x": 20, "y": 2 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 30,
+        "y": 470,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    }
+  ],
+  "meta": {
+    "id": "93f2ccff-94b3-4ad1-a8fd-e4fd640cef79",
+    "texture_id": "cc2d7a42-67e7-477f-8320-66b57d669251",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "3b1cbc23-9215-4b75-92f8-a7c94f679c7a",
+      "texture_meta_id": "8d9c437a-79e2-483b-9aaa-55f4f1767187",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}

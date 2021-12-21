@@ -1,0 +1,38 @@
+{
+  "name": "weilai",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "hot": "vue-cli-service serve --mode dev",
+    "build": "vue-cli-service build --mode pro",
+    "dev": "vue-cli-service build",
+    "texture": "node ./bin/texture.js"
+  },
+  "dependencies": {
+    "@vue/cli-shared-utils": "^4.5.14",
+    "chalk": "^4.1.2",
+    "get-intrinsic": "^1.1.1",
+    "uuid": "^8.3.2",
+    "vue": "^2.6.11",
+    "vue-router": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-router": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "amfe-flexible": "^2.2.1",
+    "axios": "^0.21.1",
+    "core-js": "^3.17.3",
+    "cross-env": "^7.0.3",
+    "node-sass": "4.14.1",
+    "postcss-pxtorem": "5.1.1",
+    "sass-loader": "^8.0.2",
+    "vue-i18n": "^8.26.7",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

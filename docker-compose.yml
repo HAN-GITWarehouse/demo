@@ -1,0 +1,123 @@
+version: "3.8"
+services:
+  vue:
+    # image: uhub.service.ucloud.cn/humanrisk/01-games-nio-pc:latest
+    build:
+      context: ./
+      dockerfile: Dockerfile.hot
+    stdin_open: true
+    tty: true
+    depends_on:
+      - games-api
+      - points-api
+    environment:
+      - TZ=Asia/Shanghai
+      - CHOKIDAR_USEPOLLING=true
+      - GAMES_API_URI=http://localhost:82
+      - POINTS_API_URI=http://localhost:83
+    ports:
+      - 80:80
+      - 5000:5000
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+      - 223.5.5.5
+      - 223.6.6.6
+    networks:
+      - net
+    working_dir: /app
+    volumes:
+      - .docker/conf/nginx/template/default.conf:/etc/nginx/template/default.conf
+      - ./app:/app
+      - ./app/public/assets:/var/www/assets
+
+  games-api:
+    image: uhub.service.ucloud.cn/humanrisk/01-games-api:nio.v1.0
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+      - 223.5.5.5
+      - 223.6.6.6
+    depends_on:
+      - db
+      - redis
+    networks:
+      - net
+    working_dir: /var/www
+    environment:
+      - TZ=Asia/Shanghai
+    volumes:
+      - ./.docker/conf/api/games.env:/var/www/.env
+  #      - D:\workspace\api\src:/var/www
+  # - ./.docker/conf/php/bin/run.sh:/var/www/run.sh
+
+  points-api:
+    image: uhub.service.ucloud.cn/humanrisk/01-points
+    dns:
+      - 8.8.8.8
+      - 8.8.4.4
+      - 223.5.5.5
+      - 223.6.6.6
+    depends_on:
+      - db
+      - redis
+    working_dir: /var/www
+    environment:
+      - TZ=Asia/Shanghai
+    networks:
+      - net
+    volumes:
+      - ./.docker/conf/api/points.env:/var/www/.env
+      # - /home/richard/work/01-points/api/src:/var/www
+
+  queue:
+    image: uhub.service.ucloud.cn/humanrisk/01-games-api:nio.v1.0
+    restart: always
+    depends_on:
+      - db
+      - redis
+    networks:
+      - net
+    environment:
+      - TZ=Asia/Shanghai
+    working_dir: /var/www
+    command: php artisan queue:work
+
+  crond:
+    image: uhub.service.ucloud.cn/humanrisk/01-games-api:nio.v1.0
+    restart: always
+    depends_on:
+      - db
+      - redis
+    networks:
+      - net
+    environment:
+      - TZ=Asia/Shanghai
+    working_dir: /var/www
+    command: cron && tail -f /var/log/cron.log
+
+  db:
+    image: mysql:5.6.33
+    environment:
+      TZ: Asia/Shanghai
+      MYSQL_DATABASE: games_system
+      MYSQL_ROOT_PASSWORD: root
+      character-set-server: utf8mb4
+      collation-server: utf8mb4_unicode_ci
+    networks:
+      - net
+    ports:
+      - 33069:3306
+    volumes:
+      - ./docker/conf/data/mysql:/var/lib/mysql
+
+  redis:
+    image: redis
+    networks:
+      - net
+    ports:
+      - 63799:6379
+
+networks:
+  net:
+    driver: bridge

@@ -1,0 +1,504 @@
+{
+  "id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+  "lang": null,
+  "name": null,
+  "type": null,
+  "style": {
+    "flex": "1",
+    "padding": "9vh 5vw",
+    "overflow-y": "scroll",
+    "psition": "relative"
+  },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "content": null,
+  "frames": [
+    {
+      "id": "d567a30c-373f-442a-bcf3-9dd48d7f0f9d",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "87bc682d-ace8-47f1-bb64-673f267cf5c2",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "fontSize": "5vh",
+        "fontFimaly": "Blue Sky Noto-Regular",
+        "padding": "",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "content": "信息安全知多少",
+      "flow": null,
+      "frame": {
+        "id": "1885c215-2d24-44af-a3ad-f3e906264c9b",
+        "texture_frames_id": "e027d6d1-82c7-462c-9085-716745bd705e",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "3e25b72f-bc22-4c45-96e5-7a7a564a4aaf",
+        "texture_frames_id": "6f35821a-ac04-4c6f-84aa-111c0d6625b4",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "e58580c9-d1e0-4f45-bc70-aaa6721fe8e0",
+        "texture_frames_id": "1a215320-3661-4a96-8dcb-a88c870b8ce3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "6e74f148-4cc9-431e-bb00-b54e73deecae",
+        "texture_frames_id": "dacdf174-9c6a-4c10-9d68-5377595eee26",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "d567a30c-373f-442a-bcf3-9dd48d7f0f9d",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "87bc682d-ace8-47f1-bb64-673f267cf5c2",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "fontSize": "2.5vh",
+        "fontFimaly": "Blue Sky Noto-Regular",
+        "margin": "4vh 0 0 0",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "content": "<span style='display:inline-block;width:7.4vw;height:4vh;background:#31b7da;border-radius:50%;text-align:center;line-height:4vh;color:#fff;font-size:3vh'>  &nbsp;？</span> 下面这些行为哪些存在安全隐患？",
+      "flow": null,
+      "frame": {
+        "id": "1885c215-2d24-44af-a3ad-f3e906264c9b",
+        "texture_frames_id": "e027d6d1-82c7-462c-9085-716745bd705e",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "3e25b72f-bc22-4c45-96e5-7a7a564a4aaf",
+        "texture_frames_id": "6f35821a-ac04-4c6f-84aa-111c0d6625b4",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "e58580c9-d1e0-4f45-bc70-aaa6721fe8e0",
+        "texture_frames_id": "1a215320-3661-4a96-8dcb-a88c870b8ce3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "6e74f148-4cc9-431e-bb00-b54e73deecae",
+        "texture_frames_id": "dacdf174-9c6a-4c10-9d68-5377595eee26",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "d567a30c-373f-442a-bcf3-9dd48d7f0f9d",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "87bc682d-ace8-47f1-bb64-673f267cf5c2",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "fontSize": "1.5vh",
+        "fontFimaly": "Blue Sky Noto-Light",
+        "margin": "3vh 0 0 7vw",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "content": "A. 密码老是记不住，把它记在便签纸上，贴到工位上就不会忘了",
+      "flow": null,
+      "frame": {
+        "id": "1885c215-2d24-44af-a3ad-f3e906264c9b",
+        "texture_frames_id": "e027d6d1-82c7-462c-9085-716745bd705e",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "3e25b72f-bc22-4c45-96e5-7a7a564a4aaf",
+        "texture_frames_id": "6f35821a-ac04-4c6f-84aa-111c0d6625b4",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "e58580c9-d1e0-4f45-bc70-aaa6721fe8e0",
+        "texture_frames_id": "1a215320-3661-4a96-8dcb-a88c870b8ce3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "6e74f148-4cc9-431e-bb00-b54e73deecae",
+        "texture_frames_id": "dacdf174-9c6a-4c10-9d68-5377595eee26",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "d567a30c-373f-442a-bcf3-9dd48d7f0f9d",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "87bc682d-ace8-47f1-bb64-673f267cf5c2",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "fontSize": "1.5vh",
+        "fontFimaly": "Blue Sky Noto-Light",
+        "margin": "3vh 0 0 7vw",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "content": "B. 做不完的工作上传百度云盘，到家后下载了继续工作",
+      "flow": null,
+      "frame": {
+        "id": "1885c215-2d24-44af-a3ad-f3e906264c9b",
+        "texture_frames_id": "e027d6d1-82c7-462c-9085-716745bd705e",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "3e25b72f-bc22-4c45-96e5-7a7a564a4aaf",
+        "texture_frames_id": "6f35821a-ac04-4c6f-84aa-111c0d6625b4",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "e58580c9-d1e0-4f45-bc70-aaa6721fe8e0",
+        "texture_frames_id": "1a215320-3661-4a96-8dcb-a88c870b8ce3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "6e74f148-4cc9-431e-bb00-b54e73deecae",
+        "texture_frames_id": "dacdf174-9c6a-4c10-9d68-5377595eee26",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "0e61b430-e16d-4a98-9183-26db25edc4f2",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "87bc682d-ace8-47f1-bb64-673f267cf5c2",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "fontSize": "1.5vh",
+        "fontFimaly": "Blue Sky Noto-Light",
+        "margin": "3vh 0 0 7vw",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "content": "C. 我去拿个外卖，就2分钟，电脑先不锁屏了；",
+      "flow": null,
+      "frame": {
+        "id": "1885c215-2d24-44af-a3ad-f3e906264c9b",
+        "texture_frames_id": "e027d6d1-82c7-462c-9085-716745bd705e",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "3e25b72f-bc22-4c45-96e5-7a7a564a4aaf",
+        "texture_frames_id": "6f35821a-ac04-4c6f-84aa-111c0d6625b4",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "e58580c9-d1e0-4f45-bc70-aaa6721fe8e0",
+        "texture_frames_id": "1a215320-3661-4a96-8dcb-a88c870b8ce3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "6e74f148-4cc9-431e-bb00-b54e73deecae",
+        "texture_frames_id": "dacdf174-9c6a-4c10-9d68-5377595eee26",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "9072ca76-566f-4ad9-a2e8-211e4105a877",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "87bc682d-ace8-47f1-bb64-673f267cf5c2",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "fontSize": "1.5vh",
+        "fontFimaly": "Blue Sky Noto-Light",
+        "margin": "3vh 0 0 7vw",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "content": "D. 随意打开陌生邮件中的链接；",
+      "flow": null,
+      "frame": {
+        "id": "1885c215-2d24-44af-a3ad-f3e906264c9b",
+        "texture_frames_id": "e027d6d1-82c7-462c-9085-716745bd705e",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "3e25b72f-bc22-4c45-96e5-7a7a564a4aaf",
+        "texture_frames_id": "6f35821a-ac04-4c6f-84aa-111c0d6625b4",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "e58580c9-d1e0-4f45-bc70-aaa6721fe8e0",
+        "texture_frames_id": "1a215320-3661-4a96-8dcb-a88c870b8ce3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "6e74f148-4cc9-431e-bb00-b54e73deecae",
+        "texture_frames_id": "dacdf174-9c6a-4c10-9d68-5377595eee26",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "f7db7296-ba59-48f7-83d3-a5d93d78bd3a",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "87bc682d-ace8-47f1-bb64-673f267cf5c2",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "fontSize": "1.5vh",
+        "fontFimaly": "Blue Sky Noto-Light",
+        "margin": "3vh 0 0 7vw",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "content": "E. 打印了一份材料，哎呀，怎么还没打完，算了，我先去开会，待会儿再回来拿；",
+      "flow": null,
+      "frame": {
+        "id": "1885c215-2d24-44af-a3ad-f3e906264c9b",
+        "texture_frames_id": "e027d6d1-82c7-462c-9085-716745bd705e",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "3e25b72f-bc22-4c45-96e5-7a7a564a4aaf",
+        "texture_frames_id": "6f35821a-ac04-4c6f-84aa-111c0d6625b4",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "e58580c9-d1e0-4f45-bc70-aaa6721fe8e0",
+        "texture_frames_id": "1a215320-3661-4a96-8dcb-a88c870b8ce3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "6e74f148-4cc9-431e-bb00-b54e73deecae",
+        "texture_frames_id": "dacdf174-9c6a-4c10-9d68-5377595eee26",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "e58d0d69-b92a-4a71-ad79-96b9f72f5657",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "87bc682d-ace8-47f1-bb64-673f267cf5c2",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "fontSize": "1.5vh",
+        "fontFimaly": "Blue Sky Noto-Light",
+        "margin": "3vh 0 0 7vw",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "content": "D. 随意打开陌生邮件中的链接；",
+      "flow": null,
+      "frame": {
+        "id": "1885c215-2d24-44af-a3ad-f3e906264c9b",
+        "texture_frames_id": "e027d6d1-82c7-462c-9085-716745bd705e",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "3e25b72f-bc22-4c45-96e5-7a7a564a4aaf",
+        "texture_frames_id": "6f35821a-ac04-4c6f-84aa-111c0d6625b4",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "e58580c9-d1e0-4f45-bc70-aaa6721fe8e0",
+        "texture_frames_id": "1a215320-3661-4a96-8dcb-a88c870b8ce3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "6e74f148-4cc9-431e-bb00-b54e73deecae",
+        "texture_frames_id": "dacdf174-9c6a-4c10-9d68-5377595eee26",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "153daaa8-e4a5-41d9-94c2-bccbb67c3184",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "87bc682d-ace8-47f1-bb64-673f267cf5c2",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "fontSize": "1.5vh",
+        "fontFimaly": "Blue Sky Noto-Light",
+        "margin": "3vh 0 0 7vw",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "content": "G. Jim, 我需要登录A系统看一下这个客户的基本资料，但我没有权限，把你的账号密码借我用下；好的。",
+      "flow": null,
+      "frame": {
+        "id": "1885c215-2d24-44af-a3ad-f3e906264c9b",
+        "texture_frames_id": "e027d6d1-82c7-462c-9085-716745bd705e",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "3e25b72f-bc22-4c45-96e5-7a7a564a4aaf",
+        "texture_frames_id": "6f35821a-ac04-4c6f-84aa-111c0d6625b4",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "e58580c9-d1e0-4f45-bc70-aaa6721fe8e0",
+        "texture_frames_id": "1a215320-3661-4a96-8dcb-a88c870b8ce3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "6e74f148-4cc9-431e-bb00-b54e73deecae",
+        "texture_frames_id": "dacdf174-9c6a-4c10-9d68-5377595eee26",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "bc563afd-9024-4bdc-ad63-083c68c537cf",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "87bc682d-ace8-47f1-bb64-673f267cf5c2",
+      "animation": null,
+      "type": "img",
+      "style": {
+        "display": "block",
+        "width": "31.68vw",
+        "height": "17.6vh",
+        "margin": "2.6vh  0  0 54.5vw",
+        "animation": "slideInLeft 0.25s ease both"
+      },
+      "label": null,
+      "content": "bc563afd-9024-4bdc-ad63-083c68c537cf.png",
+      "flow": null,
+      "frame": {
+        "id": "1885c215-2d24-44af-a3ad-f3e906264c9b",
+        "texture_frames_id": "e027d6d1-82c7-462c-9085-716745bd705e",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "3e25b72f-bc22-4c45-96e5-7a7a564a4aaf",
+        "texture_frames_id": "6f35821a-ac04-4c6f-84aa-111c0d6625b4",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "e58580c9-d1e0-4f45-bc70-aaa6721fe8e0",
+        "texture_frames_id": "1a215320-3661-4a96-8dcb-a88c870b8ce3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "6e74f148-4cc9-431e-bb00-b54e73deecae",
+        "texture_frames_id": "dacdf174-9c6a-4c10-9d68-5377595eee26",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    }
+  ],
+  "meta": {
+    "id": "16c2f5f4-afa3-4b9f-a565-65a06cbf3ef8",
+    "texture_id": "4566b717-1ed1-4a7a-9c28-ee4bf3a0453f",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "22ff79ab-d6fe-463d-ab4a-eaeb6d26b0af",
+      "texture_meta_id": "dfc0819c-dc75-4757-8691-10de6f58b8c3",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}

@@ -1,0 +1,28 @@
+/app/.DS_Store
+/app/node_modules
+/app/dist
+
+/app/package-lock.json
+/app/yarn.lock
+
+# local env files
+/app/.env.local
+/app/.env.*.local
+
+# Log files
+/app/npm-debug.log*
+/app/yarn-debug.log*
+/app/yarn-error.log*
+/app/pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+.docker/data
+.env

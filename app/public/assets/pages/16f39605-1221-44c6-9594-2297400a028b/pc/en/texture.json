@@ -1,0 +1,575 @@
+{
+  "id": "16f39605-1221-44c6-9594-2297400a028b",
+  "lang": "en",
+  "name": null,
+  "type": null,
+  "style": { "padding": "7.5vh 5.4vw", "overflow": "hidden" },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "content": {
+    "id": "c0241bfc-b934-488f-91a5-930fc03045f1",
+    "texture_id": "93ebf9dc-8490-405a-8ca1-7daf56c4ca89",
+    "succeed": 1,
+    "bgcolor": "ffffff",
+    "point": null
+  },
+  "frames": [
+    {
+      "id": "c65b4fed-cd7a-40d4-bf1b-b66e2becb1c1",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "null",
+      "type": "p",
+      "label": null,
+      "content": [
+        {
+          "text": "Information Security Specification",
+          "style-type": "title-en",
+          "type": "txt",
+          "p": { "x": 0, "y": 0 }
+        },
+        {
+          "text": "- Phishing Attack",
+          "style": { "fontFamily": "Blue Sky Noto-Light", "fontSize": 15 },
+          "type": "txt",
+          "p": { "x": 0, "y": 30 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 25,
+        "y": 30
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "712aecfb-bfce-4050-8706-56e3a39ea6bf",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "16f39605-1221-44c6-9594-2297400a028b",
+      "animation": null,
+      "tweens": null,
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "How to protect against phishing emails？",
+          "type": "txt",
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fontWeight": "bold",
+            "fill": "#48BEBE"
+          },
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 70,
+        "y": 85,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "65f666ed-945d-4486-8793-a6399ef78b0c",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "16f39605-1221-44c6-9594-2297400a028b",
+      "animation": null,
+      "tweens": {
+        "wait": 1500,
+        "to": [
+          { "p": { "x": 38, "y": 118, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 38, "y": 118, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "img",
+      "content": [
+        {
+          "id": "5430da74-2e53-4161-9d4c-10256e465a66",
+          "type": "img",
+          "url": "5430da74-2e53-4161-9d4c-10256e465a66.png"
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 38,
+        "y": 118,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": 32,
+        "h": 526,
+        "scale": { "desc": "缩放比例", "ratio": 0.7 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "9520e191-427d-4548-84a2-17e62fd97f24",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "16f39605-1221-44c6-9594-2297400a028b",
+      "animation": null,
+      "tweens": {
+        "wait": 3000,
+        "to": [
+          { "p": { "x": 50, "y": 132, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 70, "y": 132, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "For the URL in the email from an unknown source, move the mouse to \nthe link to confirm the actual URL. Do not click it until you confirm that \nthere is no problem.",
+          "type": "txt",
+          "style-type": "blue-ligth-10",
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 70,
+        "y": 132,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "0095b605-cd30-4fca-a35c-ecad424e9f72",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "16f39605-1221-44c6-9594-2297400a028b",
+      "animation": null,
+      "tweens": {
+        "wait": 5000,
+        "to": [
+          { "p": { "x": 50, "y": 207, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 70, "y": 207, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "Do not download attachments in emails without careful checking, \nespecially executable attachments and files containing macros;",
+          "type": "txt",
+          "style-type": "blue-ligth-10",
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 70,
+        "y": 207,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "1d7514a3-3e0e-4e96-bf36-469fb3eb3086",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "16f39605-1221-44c6-9594-2297400a028b",
+      "animation": null,
+      "tweens": {
+        "wait": 7000,
+        "to": [
+          { "p": { "x": 50, "y": 271, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 70, "y": 271, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "Do not submit sensitive personal information requested by an email \nwithout careful checking;",
+          "type": "txt",
+          "style-type": "blue-ligth-10",
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 71,
+        "y": 271,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+
+    {
+      "id": "35312894-0db3-4e7c-b007-04c56051d2f4",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "16f39605-1221-44c6-9594-2297400a028b",
+      "animation": null,
+      "tweens": {
+        "wait": 9000,
+        "to": [
+          { "p": { "x": 50, "y": 333, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 70, "y": 333, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "If you are not sure whether it is a phishing email or not, forward it to",
+          "type": "txt",
+          "style-type": "blue-ligth-10",
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        },
+        {
+          "text": "sec@nio.com",
+          "type": "txt",
+          "style-type": "blue-ligth-10-b",
+          "p": { "x": 0, "y": 12, "alpha": 1 }
+        },
+        {
+          "text": "and delete it;",
+          "type": "txt",
+          "style-type": "blue-ligth-10",
+          "p": { "x": 70, "y": 12, "alpha": 1 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 71,
+        "y": 333,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "afae1cb8-fb46-4f07-bd43-860819ceba50",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "16f39605-1221-44c6-9594-2297400a028b",
+      "animation": null,
+      "tweens": {
+        "wait": 11000,
+        "to": [
+          { "p": { "x": 50, "y": 410, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 70, "y": 410, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "txt",
+      "content": [
+        {
+          "text": "If you have already clicked the phishing link or opened the attachment, \nplease report to the Corporate Information Security Department; \nSometimes, simply clicking on the link is enough to compromise the \ndevice, even without entering credentials.",
+          "type": "txt",
+          "style-type": "blue-ligth-10",
+          "p": { "x": 0, "y": 0, "alpha": 1 }
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 68,
+        "y": 410,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": null,
+        "h": null,
+        "scale": { "desc": "缩放比例", "ratio": 1 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    },
+    {
+      "id": "c967c355-1827-444f-afd3-b5546fa08210",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "16f39605-1221-44c6-9594-2297400a028b",
+      "animation": null,
+      "tweens": null,
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "img",
+      "content": [
+        {
+          "id": "9ad084f5-2bed-49e4-b389-a439ccbe6c7d",
+          "type": "img",
+          "url": "9ad084f5-2bed-49e4-b389-a439ccbe6c7d.png"
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "d377e3cc-26d3-4aaa-9d3a-44e0a0497058",
+        "texture_frames_id": "44efbeb7-c354-4210-a619-156ca8073001",
+        "x": 480,
+        "y": 137,
+        "w": null,
+        "h": null
+      },
+      "pivot": {
+        "id": "69e7b9b6-eb39-4a28-bd57-0e82154c237b",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 510,
+        "y": 500
+      },
+      "sourceSize": {
+        "id": "18d8aab5-28f9-463f-b27f-59eed35b1032",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "w": 602,
+        "h": 457,
+        "scale": { "desc": "缩放比例", "ratio": 0.7 }
+      },
+      "spriteSourceSize": {
+        "id": "1d8e82a2-877d-468d-8dae-731068e0e862",
+        "texture_frames_id": "2B552F1F-7918-40DD-8A2C-06BF29AFF063",
+        "x": 0,
+        "y": 0,
+        "w": 375,
+        "h": 812
+      }
+    }
+  ],
+  "meta": {
+    "id": "b3f2371e-aac7-4c8b-ab8c-e23926adea61",
+    "texture_id": "661f3c9e-1979-4f41-ad97-0db35d6e0b89",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "c0528635-3142-4313-90a1-a844b9df83e6",
+      "texture_meta_id": "94af692c-fa16-41de-97f7-885663b5335d",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}

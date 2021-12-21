@@ -1,0 +1,232 @@
+{
+  "id": "b9d7980b-c679-4f19-9e40-723a313a2cbe",
+  "lang": null,
+  "name": null,
+  "type": null,
+  "style": {
+    "flex": "1",
+    "background": "#00243C",
+    "overflow-y": "scroll",
+    "psition": "relative"
+  },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "content": null,
+  "frames": [
+    {
+      "id": "b9fb873d-27ff-4554-93a3-db589c930e66",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "87bc682d-ace8-47f1-bb64-673f267cf5c2",
+      "animation": null,
+      "type": "img",
+      "style": {
+        "display": "block",
+        "width": "25vw",
+        "height": "5vh",
+        "margin": "16.8vh 0 0 10vw",
+        "opacity": 1
+      },
+      "label": null,
+      "content": "b9fb873d-27ff-4554-93a3-db589c930e66.png",
+      "flow": null,
+      "frame": {
+        "id": "1885c215-2d24-44af-a3ad-f3e906264c9b",
+        "texture_frames_id": "e027d6d1-82c7-462c-9085-716745bd705e",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "3e25b72f-bc22-4c45-96e5-7a7a564a4aaf",
+        "texture_frames_id": "6f35821a-ac04-4c6f-84aa-111c0d6625b4",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "e58580c9-d1e0-4f45-bc70-aaa6721fe8e0",
+        "texture_frames_id": "1a215320-3661-4a96-8dcb-a88c870b8ce3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "6e74f148-4cc9-431e-bb00-b54e73deecae",
+        "texture_frames_id": "dacdf174-9c6a-4c10-9d68-5377595eee26",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "5d05a709-38c2-4ad6-b0b5-2954841a875c",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "87bc682d-ace8-47f1-bb64-673f267cf5c2",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "width": "80vw",
+        "color": "#fff",
+        "fontSize": "4.6vh",
+        "fontFimaly": "Blue Sky Noto-Regular",
+        "opacity": 1,
+        "letterSpacing": "1vw",
+        "margin": "7.2vh 0 0 10vw"
+      },
+      "label": null,
+      "content": "信息安全意识培训",
+      "flow": null,
+      "frame": {
+        "id": "1885c215-2d24-44af-a3ad-f3e906264c9b",
+        "texture_frames_id": "e027d6d1-82c7-462c-9085-716745bd705e",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "3e25b72f-bc22-4c45-96e5-7a7a564a4aaf",
+        "texture_frames_id": "6f35821a-ac04-4c6f-84aa-111c0d6625b4",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "e58580c9-d1e0-4f45-bc70-aaa6721fe8e0",
+        "texture_frames_id": "1a215320-3661-4a96-8dcb-a88c870b8ce3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "6e74f148-4cc9-431e-bb00-b54e73deecae",
+        "texture_frames_id": "dacdf174-9c6a-4c10-9d68-5377595eee26",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "5d05a709-38c2-4ad6-b0b5-2954841a875c",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "87bc682d-ace8-47f1-bb64-673f267cf5c2",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "width": "80vw",
+        "color": "#fff",
+        "fontSize": "3.6vh",
+        "fontFimaly": "Blue Sky Noto-Regular",
+        "opacity": 1,
+        "margin": "6vh 0 0 10vw"
+      },
+      "label": null,
+      "content": "日期  2021/10",
+      "flow": null,
+      "frame": {
+        "id": "1885c215-2d24-44af-a3ad-f3e906264c9b",
+        "texture_frames_id": "e027d6d1-82c7-462c-9085-716745bd705e",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "3e25b72f-bc22-4c45-96e5-7a7a564a4aaf",
+        "texture_frames_id": "6f35821a-ac04-4c6f-84aa-111c0d6625b4",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "e58580c9-d1e0-4f45-bc70-aaa6721fe8e0",
+        "texture_frames_id": "1a215320-3661-4a96-8dcb-a88c870b8ce3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "6e74f148-4cc9-431e-bb00-b54e73deecae",
+        "texture_frames_id": "dacdf174-9c6a-4c10-9d68-5377595eee26",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "5d05a709-38c2-4ad6-b0b5-2954841a875c",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "87bc682d-ace8-47f1-bb64-673f267cf5c2",
+      "animation": null,
+      "type": "p",
+      "style": {
+        "width": "80vw",
+        "color": "#fff",
+        "fontSize": "0.3vh",
+        "fontFimaly": "Blue Sky Noto-Light",
+        "opacity": 1,
+        "position": "absolute",
+        "bottom": "2.4vh",
+        "left": "5vw",
+        "letterSpacing": "0.5vw"
+      },
+      "label": null,
+      "content": "严谨授权复制、印刷、披露或传播改演示文稿",
+      "flow": null,
+      "frame": {
+        "id": "1885c215-2d24-44af-a3ad-f3e906264c9b",
+        "texture_frames_id": "e027d6d1-82c7-462c-9085-716745bd705e",
+        "x": 0.81,
+        "y": 2.1,
+        "w": 122,
+        "h": 38,
+        "point": null
+      },
+      "pivot": {
+        "id": "3e25b72f-bc22-4c45-96e5-7a7a564a4aaf",
+        "texture_frames_id": "6f35821a-ac04-4c6f-84aa-111c0d6625b4",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "e58580c9-d1e0-4f45-bc70-aaa6721fe8e0",
+        "texture_frames_id": "1a215320-3661-4a96-8dcb-a88c870b8ce3",
+        "w": 122,
+        "h": 38
+      },
+      "spriteSourceSize": {
+        "id": "6e74f148-4cc9-431e-bb00-b54e73deecae",
+        "texture_frames_id": "dacdf174-9c6a-4c10-9d68-5377595eee26",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    }
+  ],
+  "meta": {
+    "id": "16c2f5f4-afa3-4b9f-a565-65a06cbf3ef8",
+    "texture_id": "4566b717-1ed1-4a7a-9c28-ee4bf3a0453f",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "22ff79ab-d6fe-463d-ab4a-eaeb6d26b0af",
+      "texture_meta_id": "dfc0819c-dc75-4757-8691-10de6f58b8c3",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}

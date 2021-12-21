@@ -1,0 +1,1191 @@
+{
+  "id": "148587c6-5ec5-4916-92d2-8709bdb2ef25",
+  "lang": null,
+  "name": null,
+  "type": null,
+  "style": {
+    "flex": "1",
+    "padding": "4vh 7.5vw 0",
+    "background": "#fff",
+    "position": "relative",
+    "overflow": "hidden",
+    "lineHeight": 1,
+    "margin": "0!important"
+  },
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "content": {
+    "id": "7dd9c7d5-7259-4461-ab14-75e034c76549",
+    "texture_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+    "succeed": 1,
+    "bgcolor": "ffffff",
+    "point": null
+  },
+  "frames": [
+    {
+      "id": "625f370e-2fe7-45d7-b5c2-6d5d27fc4d92",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+      "animation": null,
+      "style": {
+        "fontSize": "25",
+        "letterSpacing": ".32vw",
+        "fontFamily": "Blue Sky Noto-Light",
+        "opacity": 1,
+        "paddingBottom": "3.5vh"
+      },
+      "label": null,
+      "type": "p",
+      "content": [
+        {
+          "text": "Information Security Specification",
+          "p": {
+            "x": 0,
+            "y": 0
+          },
+          "style-type": "title-en",
+          "type": "txt"
+        }
+      ],
+      "flow": {
+        "id": "bf4a9905-6fb5-4148-8b13-9b4d16d2fa78",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "type": "Flow",
+        "target_id": "44df9e8e-a890-4dc9-9718-24056afc24d8",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "05698efe-283c-47dd-9f5a-90aef7284d65",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 30,
+        "y": 32
+      },
+      "pivot": {
+        "id": "e0a2965b-9220-416a-baec-d93ea0d81229",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "92b34aca-8bfe-412e-ae81-32c2eef4f1be",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "id": "624804e1-8605-4599-91fb-78e539a66bf3",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "bf4a9905-6fb5-4148-8b13-9b4d16d2fa79",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+      "animation": null,
+      "style": {
+        "fontSize": "25",
+        "letterSpacing": ".32vw",
+        "fontFamily": "Blue Sky Noto-Light",
+        "opacity": 1,
+        "paddingBottom": "3.5vh"
+      },
+      "label": null,
+      "type": "p",
+      "content": [
+        {
+          "text": "- Endpoint Security and Data Security",
+          "p": {
+            "x": 0,
+            "y": 0
+          },
+          "style-type": "title-letter-en",
+          "type": "txt"
+        }
+      ],
+      "flow": {
+        "id": "bf4a9905-6fb5-4148-8b13-9b4d16d2fa79",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "type": "Flow",
+        "target_id": "44df9e8e-a890-4dc9-9718-24056afc24d8",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "05698efe-283c-47dd-9f5a-90aef7284d65",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 30,
+        "y": 65
+      },
+      "pivot": {
+        "id": "e0a2965b-9220-416a-baec-d93ea0d81229",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "92b34aca-8bfe-412e-ae81-32c2eef4f1be",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "id": "624804e1-8605-4599-91fb-78e539a66bf3",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "bba5bad3-b6dc-4cf1-9039-0580aedd2494",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+      "animation": null,
+      "tweens": null,
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "img",
+      "content": [
+        {
+          "url": "c740b372-632b-4c20-9684-ce1f3a452e19.png",
+          "type": "img"
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "22c88d07-75b6-4bd1-8f11-ca42e92576af",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 90,
+        "y": 110,
+        "w": 567,
+        "h": 125
+      },
+      "pivot": {
+        "id": "f91d340f-b9da-436f-87b5-33f78c37720e",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 0,
+        "y": 0
+      },
+      "sourceSize": {
+        "id": "f54d7cb6-16a3-485b-baf7-934b08e4c124",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "w": 918,
+        "h": 205,
+        "scale": {
+          "desc": "缩放比例",
+          "ratio": 0.61
+        }
+      },
+      "spriteSourceSize": {
+        "id": "64223bcf-bb27-41f4-9c3a-990492475fbd",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      }
+    },
+    {
+      "id": "bf4a9905-6fb5-4148-8b13-9b4d16d2fa77",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+      "animation": null,
+      "style": {
+        "fontSize": "25",
+        "letterSpacing": ".32vw",
+        "fontFamily": "Blue Sky Noto-Light",
+        "opacity": 1,
+        "paddingBottom": "3.5vh"
+      },
+      "label": null,
+      "type": "p",
+      "content": [
+        {
+          "text": "As one of the common office tools, employee’s computer faces a series of security \nrisks while assisting in daily work. These risks are partially caused by external \nattacks and partially caused by irregular daily use of computers. So we need to \nuse computers properly and keep them safe.",
+          "p": {
+            "x": 0,
+            "y": 0
+          },
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 12,
+            "lineHeight": 23
+          },
+          "type": "txt"
+        }
+      ],
+      "flow": {
+        "id": "bf4a9905-6fb5-4148-8b13-9b4d16d2fa77",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "type": "Flow",
+        "target_id": "44df9e8e-a890-4dc9-9718-24056afc24d8",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "05698efe-283c-47dd-9f5a-90aef7284d65",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 115,
+        "y": 120
+      },
+      "pivot": {
+        "id": "e0a2965b-9220-416a-baec-d93ea0d81229",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "92b34aca-8bfe-412e-ae81-32c2eef4f1be",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "w": 64,
+        "h": 64
+      },
+      "spriteSourceSize": {
+        "id": "624804e1-8605-4599-91fb-78e539a66bf3",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "005a081d-e959-4aa0-bd51-7c38cd4e2f8c",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 5000,
+        "to": [
+          { "p": { "x": 25, "y": 100, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 25, "y": 145, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "img",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Light",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "url": "be54174a-dd8f-4a58-aa28-104d405c53a0.png",
+          "type": "img",
+          "p": { "x": 0, "y": 0 }
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 25,
+        "y": 160,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 95,
+        "h": 554,
+        "scale": { "desc": "缩放比例", "ratio": 0.63 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "16c1e78a-c1a2-44bd-ade9-f8f0ea309c4e",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 7000,
+        "to": [
+          { "p": { "x": 90, "y": 238, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 238, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Light",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "•",
+          "p": {
+            "x": 0,
+            "y": -3
+          },
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#48BEBE"
+          },
+          "type": "txt"
+        },
+        {
+          "text": "Do not lend the electronic equipment distributed by the company to others, including computers, mobile phones,",
+          "p": {
+            "x": 20,
+            "y": 0
+          },
+          "style-type": "text-little-en",
+          "type": "txt"
+        },
+        {
+          "text": "tablets, USB flash disks, etc.;",
+          "p": {
+            "x": 20,
+            "y": 20
+          },
+          "style-type": "text-little-en",
+          "type": "txt"
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 238,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "37b3497c-94dc-42e9-9890-4fa36271fcc0",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 9000,
+        "to": [
+          { "p": { "x": 90, "y": 235, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 235, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Light",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "•",
+          "p": {
+            "x": 0,
+            "y": 42
+          },
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#48BEBE"
+          },
+          "type": "txt"
+        },
+        {
+          "text": "Do not download or install unauthorized software on company computers;",
+          "p": {
+            "x": 20,
+            "y": 45
+          },
+          "style-type": "text-little-en",
+          "type": "txt"
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 268,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "94a8b654-6903-48bf-8de4-370f6b861c8d",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 11000,
+        "to": [
+          { "p": { "x": 90, "y": 235, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 235, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Light",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "•",
+          "p": {
+            "x": 0,
+            "y": 67
+          },
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#48BEBE"
+          },
+          "type": "txt"
+        },
+        {
+          "text": "Lock the screen when you are away;",
+          "p": {
+            "x": 20,
+            "y": 70
+          },
+          "style-type": "text-little-en",
+          "type": "txt"
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 298,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "b463ab87-6f23-4ec6-b7aa-552974c5d0ac",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 13000,
+        "to": [
+          { "p": { "x": 90, "y": 235, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 235, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Light",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "•",
+          "p": {
+            "x": 0,
+            "y": 92
+          },
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#48BEBE"
+          },
+          "type": "txt"
+        },
+        {
+          "text": "Store the laptop in a locked cabinet before leaving the office;",
+          "p": {
+            "x": 20,
+            "y": 95
+          },
+          "style-type": "text-little-en",
+          "type": "txt"
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 328,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "5fd68924-571f-41d9-8d07-01d8e0f7f733",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 15000,
+        "to": [
+          { "p": { "x": 90, "y": 235, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 235, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Light",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "•",
+          "p": {
+            "x": 0,
+            "y": 117
+          },
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#48BEBE"
+          },
+          "type": "txt"
+        },
+        {
+          "text": "Report to 2500 immediately if the computer is lost;",
+          "p": {
+            "x": 20,
+            "y": 120
+          },
+          "style-type": "text-little-en",
+          "type": "txt"
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 358,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "6cb96572-558f-48ab-a0cd-cf15380a5dbb",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 17000,
+        "to": [
+          { "p": { "x": 90, "y": 235, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 235, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Light",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "•",
+          "p": {
+            "x": 0,
+            "y": 142
+          },
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#48BEBE"
+          },
+          "type": "txt"
+        },
+        {
+          "text": "A strong password should be set with at least 12 characters, including uppercase, lowercase letters, numbers, and",
+          "p": {
+            "x": 20,
+            "y": 145
+          },
+          "style-type": "text-little-en",
+          "type": "txt"
+        },
+        {
+          "text": "special characters (three of the four);",
+          "p": {
+            "x": 20,
+            "y": 165
+          },
+          "style-type": "text-little-en",
+          "type": "txt"
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 388,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "3c10844e-225a-4115-ab01-2dac77c432ea",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 19000,
+        "to": [
+          { "p": { "x": 90, "y": 235, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 235, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Light",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "•",
+          "p": {
+            "x": 0,
+            "y": 187
+          },
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#48BEBE"
+          },
+          "type": "txt"
+        },
+        {
+          "text": "Do not share your username and password with colleagues, family members, friends, etc. ;",
+          "p": {
+            "x": 20,
+            "y": 190
+          },
+          "style-type": "text-little-en",
+          "type": "txt"
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 418,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "c69c474f-d0a4-44aa-ac29-bb5ad20138dd",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 21000,
+        "to": [
+          { "p": { "x": 90, "y": 235, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 235, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Light",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "•",
+          "p": {
+            "x": 0,
+            "y": 212
+          },
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#48BEBE"
+          },
+          "type": "txt"
+        },
+        {
+          "text": "Do not store your username and password in cloud notes or directly post them on the computer or desktop;",
+          "p": {
+            "x": 20,
+            "y": 215
+          },
+          "style-type": "text-little-en",
+          "type": "txt"
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 448,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+
+    {
+      "id": "c906b633-6446-45b6-aa4d-17f8436d3d5d",
+      "name": null,
+      "rotated": 1,
+      "trimmed": 0,
+      "texture_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+      "animation": "move",
+      "tweens": {
+        "wait": 23000,
+        "to": [
+          { "p": { "x": 90, "y": 235, "alpha": 0 }, "s": 0 },
+          { "p": { "x": 106, "y": 235, "alpha": 1 }, "s": 1000 }
+        ]
+      },
+      "type": "p",
+      "style": {
+        "fontSize": "4.5vh",
+        "fontWeight": "bold",
+        "color": "#000",
+        "fontFamily": "Blue Sky Noto-Light",
+        "letterSpacing": ".32vw",
+        "animation": "fadeInDown 0.5s ease-in both"
+      },
+      "label": null,
+      "content": [
+        {
+          "text": "•",
+          "p": {
+            "x": 0,
+            "y": 237
+          },
+          "style": {
+            "fontFamily": "Blue Sky Noto-Light",
+            "fontSize": 15,
+            "fill": "#48BEBE"
+          },
+          "type": "txt"
+        },
+        {
+          "text": "Do not connect personal devices, such as computers and mobile phones, to the internal network.",
+          "p": {
+            "x": 20,
+            "y": 240
+          },
+          "style-type": "text-little-en",
+          "type": "txt"
+        }
+      ],
+      "flow": {
+        "id": "5649ab15-c673-437c-a8a3-33f82328fcbd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "type": "Flow",
+        "target_id": "954ce121-d431-448a-9d17-6942bfd60ba7",
+        "animation_type": "slideFromRight"
+      },
+      "frame": {
+        "id": "89ce320b-6381-49dc-a351-be6a549ea392",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 106,
+        "y": 478,
+        "w": 35,
+        "h": 350
+      },
+      "pivot": {
+        "id": "f364c226-140b-401b-8a83-e7dcbe7469dd",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0.5,
+        "y": 0.5
+      },
+      "sourceSize": {
+        "id": "179a98fd-4464-46ae-88b1-27d3d153f373",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "w": 15,
+        "h": 15,
+        "scale": { "desc": "缩放比例", "ratio": 0.4 }
+      },
+      "spriteSourceSize": {
+        "id": "94987888-ded5-4686-969d-cd873ce3d71d",
+        "texture_frames_id": "9aeb5cf2-9142-4796-83c1-0ee5ef09726b",
+        "x": 0,
+        "y": 0,
+        "w": 122,
+        "h": 38
+      }
+    },
+    {
+      "id": "bba5bad3-b6dc-4cf1-9039-0580aedd2493",
+      "name": null,
+      "rotated": 0,
+      "trimmed": 1,
+      "texture_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+      "animation": null,
+      "tweens": null,
+      "style": {
+        "animation": "bounceInUp 0.5s 2s ease both",
+        "marginLeft": "4vw",
+        "width": "26vw"
+      },
+      "label": null,
+      "type": "img",
+      "content": [
+        {
+          "url": "978720d5-973a-4694-84ad-1f406549473a.png",
+          "type": "img"
+        }
+      ],
+      "flow": null,
+      "frame": {
+        "id": "22c88d07-75b6-4bd1-8f11-ca42e92576af",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 690,
+        "y": 90,
+        "w": 567,
+        "h": 121
+      },
+      "pivot": {
+        "id": "f91d340f-b9da-436f-87b5-33f78c37720e",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 0,
+        "y": 0
+      },
+      "sourceSize": {
+        "id": "f54d7cb6-16a3-485b-baf7-934b08e4c124",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "w": 435,
+        "h": 381,
+        "scale": {
+          "desc": "缩放比例",
+          "ratio": 0.37
+        }
+      },
+      "spriteSourceSize": {
+        "id": "64223bcf-bb27-41f4-9c3a-990492475fbd",
+        "texture_frames_id": "22875a3d-ea08-46d4-aafe-5fce1848b2ab",
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      }
+    }
+  ],
+  "meta": {
+    "id": "93f2ccff-94b3-4ad1-a8fd-e4fd640cef79",
+    "texture_id": "cc2d7a42-67e7-477f-8320-66b57d669251",
+    "app": "https://github.com/odrick/webpack-free-tex-packer",
+    "version": "0.3.1",
+    "image": "texture.png",
+    "format": "RGBA8888",
+    "scale": 1,
+    "size": {
+      "id": "3b1cbc23-9215-4b75-92f8-a7c94f679c7a",
+      "texture_meta_id": "8d9c437a-79e2-483b-9aaa-55f4f1767187",
+      "w": 379,
+      "h": 1813
+    }
+  }
+}
